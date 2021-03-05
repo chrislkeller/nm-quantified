@@ -1,20 +1,15 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Acquire weekly Albuquerque building permits
-# Controls when the action will run.
 on:
   schedule:
-    # every Sunday at 10:00 pm UTC/8:00 PM in Albuquerque, NM
     - cron:  '0 22 * * SUN'
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   acquire_csv:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
-      - uses: actions/checkout@main
+        uses: actions/checkout@main
 
       - name: Setup Python 3.7.
         uses: actions/setup-python@v2
