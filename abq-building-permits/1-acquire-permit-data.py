@@ -36,9 +36,7 @@ class BuildingPermitRequest(object):
 
     utc = pytz.UTC
 
-    # my_range = datetime.datetime.now() - timedelta(days=7)
-
-    my_range = datetime.datetime(2021, 2, 28) - timedelta(days=7)
+    my_range = datetime.datetime.now() - timedelta(days=7)
 
     csv_name = 'abq-building-permits.csv'
 
