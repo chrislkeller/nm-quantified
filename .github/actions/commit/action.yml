@@ -9,9 +9,12 @@ runs:
   steps:
     - id: commit
       name: Commit
+      env:
+        EMAIL_USERNAME: ${{ secrets.EMAIL_USERNAME }}
+        USERNAME: ${{ secrets.USERNAME }}
       run: |
-        git config --global user.email ${{ secret.EMAIL_USERNAME }}
-        git config --global user.name ${{ secret.USERNAME }}
+        git config --global user.email $EMAIL_USERNAME
+        git config --global user.name $USERNAME
         git config pull.rebase false
         git status
         git pull origin $GITHUB_REF
