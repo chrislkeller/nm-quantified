@@ -29,3 +29,5 @@ jobs:
         if: always()
         with:
             message: Acquired ABQ building permits csv
+            email_username: ${{ secrets.EMAIL_USERNAME }}
+            username: ${{ secrets.USERNAME }}
