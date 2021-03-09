@@ -1,0 +1,33 @@
+name: Acquire biweekly data used to determine New Mexico's Covid-19 tiers
+on:
+  schedule:
+    - cron:  '0 16 * * 3'
+  workflow_dispatch:
+
+jobs:
+  acquire_csv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Setup Python 3.7.
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Install dependencies
+        uses: ./.github/actions/install-pipenv
+
+      - name: Run
+        run: |
+          pipenv run python abq-building-permits/1-acquire-nm-framework-tiers.py
+
+      # If any new data was fetched, create a new commit to the repo.
+      - name: Commit data to repo.
+        uses: ./.github/actions/commit
+        if: always()
+        with:
+            message: Acquired ABQ building permits csv
+            email_username: ${{ secrets.EMAIL_USERNAME }}
+            username: ${{ secrets.USERNAME }}
