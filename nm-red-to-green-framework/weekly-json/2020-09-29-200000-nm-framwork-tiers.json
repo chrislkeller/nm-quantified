@@ -1,0 +1,200 @@
+[
+    {
+        "name": "Bernalillo",
+        "endDate": "2020-09-28",
+        "positivityRate": 1.8,
+        "casesPer100k": 4.8
+    },
+    {
+        "name": "Catron",
+        "endDate": "2020-09-28",
+        "positivityRate": 0,
+        "casesPer100k": 0
+    },
+    {
+        "name": "Chaves",
+        "endDate": "2020-09-28",
+        "positivityRate": 6.7,
+        "casesPer100k": 22.7
+    },
+    {
+        "name": "Cibola",
+        "endDate": "2020-09-28",
+        "positivityRate": 1.8,
+        "casesPer100k": 7.4
+    },
+    {
+        "name": "Colfax",
+        "endDate": "2020-09-28",
+        "positivityRate": 1.7,
+        "casesPer100k": 6.5
+    },
+    {
+        "name": "Curry",
+        "endDate": "2020-09-28",
+        "positivityRate": 5.5,
+        "casesPer100k": 11.1
+    },
+    {
+        "name": "De Baca",
+        "endDate": "2020-09-28",
+        "positivityRate": 0,
+        "casesPer100k": 0
+    },
+    {
+        "name": "Doña Ana",
+        "endDate": "2020-09-28",
+        "positivityRate": 5.8,
+        "casesPer100k": 11.2
+    },
+    {
+        "name": "Eddy",
+        "endDate": "2020-09-28",
+        "positivityRate": 11.6,
+        "casesPer100k": 25.5
+    },
+    {
+        "name": "Grant",
+        "endDate": "2020-09-28",
+        "positivityRate": 2.2,
+        "casesPer100k": 6.7
+    },
+    {
+        "name": "Guadalupe",
+        "endDate": "2020-09-28",
+        "positivityRate": 0.4,
+        "casesPer100k": 3.3
+    },
+    {
+        "name": "Harding",
+        "endDate": "2020-09-28",
+        "positivityRate": 0,
+        "casesPer100k": 0
+    },
+    {
+        "name": "Hidalgo",
+        "endDate": "2020-09-28",
+        "positivityRate": 2.5,
+        "casesPer100k": 1.7
+    },
+    {
+        "name": "Lea",
+        "endDate": "2020-09-28",
+        "positivityRate": 8.8,
+        "casesPer100k": 15.2
+    },
+    {
+        "name": "Lincoln",
+        "endDate": "2020-09-28",
+        "positivityRate": 6,
+        "casesPer100k": 12.1
+    },
+    {
+        "name": "Los Alamos",
+        "endDate": "2020-09-28",
+        "positivityRate": 0.9,
+        "casesPer100k": 1.5
+    },
+    {
+        "name": "Luna",
+        "endDate": "2020-09-28",
+        "positivityRate": 5.7,
+        "casesPer100k": 13.6
+    },
+    {
+        "name": "McKinley",
+        "endDate": "2020-09-28",
+        "positivityRate": 2.4,
+        "casesPer100k": 6.2
+    },
+    {
+        "name": "Mora",
+        "endDate": "2020-09-28",
+        "positivityRate": 0,
+        "casesPer100k": 0
+    },
+    {
+        "name": "Otero",
+        "endDate": "2020-09-28",
+        "positivityRate": 2.2,
+        "casesPer100k": 2.9
+    },
+    {
+        "name": "Quay",
+        "endDate": "2020-09-28",
+        "positivityRate": 2.9,
+        "casesPer100k": 4.3
+    },
+    {
+        "name": "Rio Arriba",
+        "endDate": "2020-09-28",
+        "positivityRate": 2.5,
+        "casesPer100k": 4
+    },
+    {
+        "name": "Roosevelt",
+        "endDate": "2020-09-28",
+        "positivityRate": 5.8,
+        "casesPer100k": 18.5
+    },
+    {
+        "name": "San Juan",
+        "endDate": "2020-09-28",
+        "positivityRate": 3.1,
+        "casesPer100k": 5.1
+    },
+    {
+        "name": "San Miguel",
+        "endDate": "2020-09-28",
+        "positivityRate": 0.7,
+        "casesPer100k": 1.8
+    },
+    {
+        "name": "Sandoval",
+        "endDate": "2020-09-28",
+        "positivityRate": 1.1,
+        "casesPer100k": 3.5
+    },
+    {
+        "name": "Santa Fe",
+        "endDate": "2020-09-28",
+        "positivityRate": 2.6,
+        "casesPer100k": 5.1
+    },
+    {
+        "name": "Sierra",
+        "endDate": "2020-09-28",
+        "positivityRate": 2.5,
+        "casesPer100k": 4.5
+    },
+    {
+        "name": "Socorro",
+        "endDate": "2020-09-28",
+        "positivityRate": 5.1,
+        "casesPer100k": 10.9
+    },
+    {
+        "name": "Taos",
+        "endDate": "2020-09-28",
+        "positivityRate": 1.6,
+        "casesPer100k": 3.9
+    },
+    {
+        "name": "Torrance",
+        "endDate": "2020-09-28",
+        "positivityRate": 2.4,
+        "casesPer100k": 4.5
+    },
+    {
+        "name": "Union",
+        "endDate": "2020-09-28",
+        "positivityRate": 0,
+        "casesPer100k": 0
+    },
+    {
+        "name": "Valencia",
+        "endDate": "2020-09-28",
+        "positivityRate": 1.7,
+        "casesPer100k": 3.7
+    }
+]

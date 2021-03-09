@@ -1,0 +1,200 @@
+[
+    {
+        "name": "Bernalillo",
+        "endDate": "2020-11-30",
+        "positivityRate": 19.3,
+        "casesPer100k": 103.1
+    },
+    {
+        "name": "Catron",
+        "endDate": "2020-11-30",
+        "positivityRate": 22,
+        "casesPer100k": 44.5
+    },
+    {
+        "name": "Chaves",
+        "endDate": "2020-11-30",
+        "positivityRate": 25.4,
+        "casesPer100k": 174.7
+    },
+    {
+        "name": "Cibola",
+        "endDate": "2020-11-30",
+        "positivityRate": 17.3,
+        "casesPer100k": 147.9
+    },
+    {
+        "name": "Colfax",
+        "endDate": "2020-11-30",
+        "positivityRate": 13.6,
+        "casesPer100k": 82.8
+    },
+    {
+        "name": "Curry",
+        "endDate": "2020-11-30",
+        "positivityRate": 30.1,
+        "casesPer100k": 114.9
+    },
+    {
+        "name": "De Baca",
+        "endDate": "2020-11-30",
+        "positivityRate": 24.3,
+        "casesPer100k": 66
+    },
+    {
+        "name": "Doña Ana",
+        "endDate": "2020-11-30",
+        "positivityRate": 20.3,
+        "casesPer100k": 91.8
+    },
+    {
+        "name": "Eddy",
+        "endDate": "2020-11-30",
+        "positivityRate": 21.1,
+        "casesPer100k": 94.2
+    },
+    {
+        "name": "Grant",
+        "endDate": "2020-11-30",
+        "positivityRate": 8,
+        "casesPer100k": 49.2
+    },
+    {
+        "name": "Guadalupe",
+        "endDate": "2020-11-30",
+        "positivityRate": 19.7,
+        "casesPer100k": 101.8
+    },
+    {
+        "name": "Harding",
+        "endDate": "2020-11-30",
+        "positivityRate": 15.4,
+        "casesPer100k": 21.7
+    },
+    {
+        "name": "Hidalgo",
+        "endDate": "2020-11-30",
+        "positivityRate": 18.6,
+        "casesPer100k": 62.3
+    },
+    {
+        "name": "Lea",
+        "endDate": "2020-11-30",
+        "positivityRate": 32,
+        "casesPer100k": 128.6
+    },
+    {
+        "name": "Lincoln",
+        "endDate": "2020-11-30",
+        "positivityRate": 21.1,
+        "casesPer100k": 88.1
+    },
+    {
+        "name": "Los Alamos",
+        "endDate": "2020-11-30",
+        "positivityRate": 6,
+        "casesPer100k": 20.8
+    },
+    {
+        "name": "Luna",
+        "endDate": "2020-11-30",
+        "positivityRate": 26.6,
+        "casesPer100k": 115.4
+    },
+    {
+        "name": "McKinley",
+        "endDate": "2020-11-30",
+        "positivityRate": 23.8,
+        "casesPer100k": 181.8
+    },
+    {
+        "name": "Mora",
+        "endDate": "2020-11-30",
+        "positivityRate": 9.7,
+        "casesPer100k": 21.9
+    },
+    {
+        "name": "Otero",
+        "endDate": "2020-11-30",
+        "positivityRate": 16.3,
+        "casesPer100k": 57.8
+    },
+    {
+        "name": "Quay",
+        "endDate": "2020-11-30",
+        "positivityRate": 20.4,
+        "casesPer100k": 77.4
+    },
+    {
+        "name": "Rio Arriba",
+        "endDate": "2020-11-30",
+        "positivityRate": 15.5,
+        "casesPer100k": 73.4
+    },
+    {
+        "name": "Roosevelt",
+        "endDate": "2020-11-30",
+        "positivityRate": 19.6,
+        "casesPer100k": 90.8
+    },
+    {
+        "name": "San Juan",
+        "endDate": "2020-11-30",
+        "positivityRate": 16.8,
+        "casesPer100k": 89.5
+    },
+    {
+        "name": "San Miguel",
+        "endDate": "2020-11-30",
+        "positivityRate": 5,
+        "casesPer100k": 32.2
+    },
+    {
+        "name": "Sandoval",
+        "endDate": "2020-11-30",
+        "positivityRate": 15.6,
+        "casesPer100k": 104.2
+    },
+    {
+        "name": "Santa Fe",
+        "endDate": "2020-11-30",
+        "positivityRate": 15.5,
+        "casesPer100k": 90.1
+    },
+    {
+        "name": "Sierra",
+        "endDate": "2020-11-30",
+        "positivityRate": 11.8,
+        "casesPer100k": 86.4
+    },
+    {
+        "name": "Socorro",
+        "endDate": "2020-11-30",
+        "positivityRate": 15.1,
+        "casesPer100k": 80.6
+    },
+    {
+        "name": "Taos",
+        "endDate": "2020-11-30",
+        "positivityRate": 15.1,
+        "casesPer100k": 78.4
+    },
+    {
+        "name": "Torrance",
+        "endDate": "2020-11-30",
+        "positivityRate": 16,
+        "casesPer100k": 59.2
+    },
+    {
+        "name": "Union",
+        "endDate": "2020-11-30",
+        "positivityRate": 19.5,
+        "casesPer100k": 92.6
+    },
+    {
+        "name": "Valencia",
+        "endDate": "2020-11-30",
+        "positivityRate": 23.8,
+        "casesPer100k": 124.1
+    }
+]
