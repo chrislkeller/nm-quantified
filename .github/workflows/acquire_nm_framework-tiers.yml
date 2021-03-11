@@ -21,7 +21,7 @@ jobs:
 
       - name: Run
         run: |
-          pipenv run python abq-building-permits/1-acquire-nm-framework-tiers.py
+          pipenv run python nm-red-to-green-framework/1-acquire-nm-framework-tiers.py
 
       # If any new data was fetched, create a new commit to the repo.
       - name: Commit data to repo.
