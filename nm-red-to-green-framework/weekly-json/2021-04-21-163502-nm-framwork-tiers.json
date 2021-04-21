@@ -28,12 +28,12 @@
         "long": -106.669065,
         "correctionalFacilityCases": 0,
         "outlookColor": "yellow",
-        "casesPer100k": 9.4,
-        "positivityRate": 2.43,
-        "startDate": "2021-03-23",
+        "casesPer100k": 11.3,
+        "positivityRate": 2.74,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 3,
@@ -63,13 +63,13 @@
         "lat": 33.901814,
         "long": -108.392097,
         "correctionalFacilityCases": 0,
-        "outlookColor": "turquoise",
-        "casesPer100k": 1.1,
-        "positivityRate": 2.38,
-        "startDate": "2021-03-23",
+        "outlookColor": "yellow",
+        "casesPer100k": 5.7,
+        "positivityRate": 7.69,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 5,
@@ -99,13 +99,13 @@
         "lat": 33.361605,
         "long": -104.469837,
         "correctionalFacilityCases": 230,
-        "outlookColor": "turquoise",
-        "casesPer100k": 5.3,
-        "positivityRate": 2.33,
-        "startDate": "2021-03-23",
-        "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "outlookColor": "yellow",
+        "casesPer100k": 10.5,
+        "positivityRate": 3.66,
+        "startDate": "2021-04-06",
+        "improving": 0,
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 6,
@@ -135,13 +135,13 @@
         "lat": 34.93205,
         "long": -108.000255,
         "correctionalFacilityCases": 648,
-        "outlookColor": "green",
-        "casesPer100k": 5.1,
-        "positivityRate": 1.32,
-        "startDate": "2021-03-23",
+        "outlookColor": "turquoise",
+        "casesPer100k": 7.2,
+        "positivityRate": 1.55,
+        "startDate": "2021-04-06",
         "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 7,
@@ -171,13 +171,13 @@
         "lat": 36.612963,
         "long": -104.640126,
         "correctionalFacilityCases": 151,
-        "outlookColor": "turquoise",
-        "casesPer100k": 3,
-        "positivityRate": 1.53,
-        "startDate": "2021-03-23",
-        "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "outlookColor": "red",
+        "casesPer100k": 12,
+        "positivityRate": 5.54,
+        "startDate": "2021-04-06",
+        "improving": 0,
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 9,
@@ -208,12 +208,12 @@
         "long": -103.346055,
         "correctionalFacilityCases": 0,
         "outlookColor": "turquoise",
-        "casesPer100k": 4.4,
-        "positivityRate": 2.1,
-        "startDate": "2021-03-23",
+        "casesPer100k": 3,
+        "positivityRate": 1.1,
+        "startDate": "2021-04-06",
         "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 11,
@@ -244,12 +244,12 @@
         "long": -104.401527,
         "correctionalFacilityCases": 0,
         "outlookColor": "turquoise",
-        "casesPer100k": 1.1,
-        "positivityRate": 1.32,
-        "startDate": "2021-03-23",
+        "casesPer100k": 3.4,
+        "positivityRate": 4.69,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 13,
@@ -280,12 +280,12 @@
         "long": -106.832182,
         "correctionalFacilityCases": 0,
         "outlookColor": "yellow",
-        "casesPer100k": 11.2,
-        "positivityRate": 3.85,
-        "startDate": "2021-03-23",
+        "casesPer100k": 12.3,
+        "positivityRate": 4.76,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 15,
@@ -315,13 +315,13 @@
         "lat": 32.457858,
         "long": -104.306471,
         "correctionalFacilityCases": 0,
-        "outlookColor": "turquoise",
-        "casesPer100k": 6.7,
-        "positivityRate": 2.41,
-        "startDate": "2021-03-23",
-        "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "outlookColor": "yellow",
+        "casesPer100k": 9.1,
+        "positivityRate": 2.81,
+        "startDate": "2021-04-06",
+        "improving": 0,
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 17,
@@ -352,12 +352,12 @@
         "long": -108.381504,
         "correctionalFacilityCases": 0,
         "outlookColor": "yellow",
-        "casesPer100k": 11,
-        "positivityRate": 2.38,
-        "startDate": "2021-03-23",
+        "casesPer100k": 9.5,
+        "positivityRate": 2,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 19,
@@ -387,13 +387,13 @@
         "lat": 34.869782,
         "long": -104.784968,
         "correctionalFacilityCases": 251,
-        "outlookColor": "yellow",
-        "casesPer100k": 9.1,
-        "positivityRate": 2.2,
-        "startDate": "2021-03-23",
-        "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "outlookColor": "green",
+        "casesPer100k": 1.1,
+        "positivityRate": 0.43,
+        "startDate": "2021-04-06",
+        "improving": 1,
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 21,
@@ -423,13 +423,13 @@
         "lat": 35.863152,
         "long": -103.829931,
         "correctionalFacilityCases": 0,
-        "outlookColor": "green",
-        "casesPer100k": 0,
-        "positivityRate": 0,
-        "startDate": "2021-03-23",
-        "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "outlookColor": "yellow",
+        "casesPer100k": 1.1,
+        "positivityRate": 11.11,
+        "startDate": "2021-04-06",
+        "improving": 0,
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 23,
@@ -459,13 +459,13 @@
         "lat": 31.899658,
         "long": -108.745729,
         "correctionalFacilityCases": 0,
-        "outlookColor": "yellow",
+        "outlookColor": "green",
         "casesPer100k": 4.6,
-        "positivityRate": 5.13,
-        "startDate": "2021-03-23",
-        "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "positivityRate": 3.96,
+        "startDate": "2021-04-06",
+        "improving": 1,
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 25,
@@ -496,12 +496,12 @@
         "long": -103.413271,
         "correctionalFacilityCases": 762,
         "outlookColor": "turquoise",
-        "casesPer100k": 3.4,
-        "positivityRate": 1.4,
-        "startDate": "2021-03-23",
+        "casesPer100k": 2.6,
+        "positivityRate": 1.35,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 27,
@@ -531,13 +531,13 @@
         "lat": 33.740941,
         "long": -105.449083,
         "correctionalFacilityCases": 0,
-        "outlookColor": "turquoise",
-        "casesPer100k": 5.8,
-        "positivityRate": 2.39,
-        "startDate": "2021-03-23",
-        "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "outlookColor": "yellow",
+        "casesPer100k": 9.7,
+        "positivityRate": 3.25,
+        "startDate": "2021-04-06",
+        "improving": 0,
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 28,
@@ -568,12 +568,12 @@
         "long": -106.307968,
         "correctionalFacilityCases": 0,
         "outlookColor": "turquoise",
-        "casesPer100k": 3.4,
-        "positivityRate": 1.1,
-        "startDate": "2021-03-23",
+        "casesPer100k": 3,
+        "positivityRate": 0.89,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 29,
@@ -604,12 +604,12 @@
         "long": -107.746639,
         "correctionalFacilityCases": 0,
         "outlookColor": "yellow",
-        "casesPer100k": 12,
-        "positivityRate": 3.41,
-        "startDate": "2021-03-23",
+        "casesPer100k": 8.2,
+        "positivityRate": 2.24,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 31,
@@ -640,12 +640,12 @@
         "long": -108.255307,
         "correctionalFacilityCases": 0,
         "outlookColor": "turquoise",
-        "casesPer100k": 2.4,
-        "positivityRate": 1,
-        "startDate": "2021-03-23",
+        "casesPer100k": 5.3,
+        "positivityRate": 2.23,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 33,
@@ -676,12 +676,12 @@
         "long": -104.921898,
         "correctionalFacilityCases": 0,
         "outlookColor": "turquoise",
-        "casesPer100k": 1.1,
-        "positivityRate": 0.91,
-        "startDate": "2021-03-23",
+        "casesPer100k": 0,
+        "positivityRate": 0,
+        "startDate": "2021-04-06",
         "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 35,
@@ -711,13 +711,13 @@
         "lat": 32.588776,
         "long": -105.781079,
         "correctionalFacilityCases": 1114,
-        "outlookColor": "yellow",
-        "casesPer100k": 11,
-        "positivityRate": 3.73,
-        "startDate": "2021-03-23",
-        "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "outlookColor": "green",
+        "casesPer100k": 7.2,
+        "positivityRate": 2.54,
+        "startDate": "2021-04-06",
+        "improving": 1,
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 37,
@@ -748,12 +748,12 @@
         "long": -103.548071,
         "correctionalFacilityCases": 0,
         "outlookColor": "turquoise",
-        "casesPer100k": 2.6,
-        "positivityRate": 2.31,
-        "startDate": "2021-03-23",
+        "casesPer100k": 6.8,
+        "positivityRate": 4.32,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 39,
@@ -783,13 +783,13 @@
         "lat": 36.509669,
         "long": -106.693983,
         "correctionalFacilityCases": 0,
-        "outlookColor": "turquoise",
-        "casesPer100k": 7.7,
-        "positivityRate": 3.21,
-        "startDate": "2021-03-23",
-        "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "outlookColor": "yellow",
+        "casesPer100k": 11.6,
+        "positivityRate": 4.48,
+        "startDate": "2021-04-06",
+        "improving": 0,
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 41,
@@ -820,12 +820,12 @@
         "long": -103.482725,
         "correctionalFacilityCases": 0,
         "outlookColor": "turquoise",
-        "casesPer100k": 3.2,
-        "positivityRate": 1.07,
-        "startDate": "2021-03-23",
+        "casesPer100k": 2.9,
+        "positivityRate": 1.37,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 45,
@@ -856,12 +856,12 @@
         "long": -108.324578,
         "correctionalFacilityCases": 0,
         "outlookColor": "yellow",
-        "casesPer100k": 9.3,
-        "positivityRate": 3.16,
-        "startDate": "2021-03-23",
+        "casesPer100k": 17.7,
+        "positivityRate": 4.93,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 47,
@@ -891,13 +891,13 @@
         "lat": 35.476876,
         "long": -104.803515,
         "correctionalFacilityCases": 0,
-        "outlookColor": "green",
-        "casesPer100k": 2,
-        "positivityRate": 0.4,
-        "startDate": "2021-03-23",
+        "outlookColor": "turquoise",
+        "casesPer100k": 5.1,
+        "positivityRate": 0.9,
+        "startDate": "2021-04-06",
         "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 43,
@@ -928,12 +928,12 @@
         "long": -106.882618,
         "correctionalFacilityCases": 0,
         "outlookColor": "yellow",
-        "casesPer100k": 12.4,
-        "positivityRate": 2.99,
-        "startDate": "2021-03-23",
+        "casesPer100k": 13.2,
+        "positivityRate": 3.09,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 49,
@@ -964,12 +964,12 @@
         "long": -105.966441,
         "correctionalFacilityCases": 218,
         "outlookColor": "turquoise",
-        "casesPer100k": 5.3,
-        "positivityRate": 1.57,
-        "startDate": "2021-03-23",
+        "casesPer100k": 5.8,
+        "positivityRate": 1.67,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 51,
@@ -999,13 +999,13 @@
         "lat": 33.119479,
         "long": -107.188161,
         "correctionalFacilityCases": 0,
-        "outlookColor": "turquoise",
-        "casesPer100k": 3.9,
-        "positivityRate": 1.14,
-        "startDate": "2021-03-23",
+        "outlookColor": "yellow",
+        "casesPer100k": 10.3,
+        "positivityRate": 2.4,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 53,
@@ -1035,13 +1035,13 @@
         "lat": 33.991614,
         "long": -106.939003,
         "correctionalFacilityCases": 0,
-        "outlookColor": "turquoise",
-        "casesPer100k": 5,
-        "positivityRate": 0.46,
-        "startDate": "2021-03-23",
+        "outlookColor": "yellow",
+        "casesPer100k": 22,
+        "positivityRate": 2.22,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 55,
@@ -1072,12 +1072,12 @@
         "long": -105.637987,
         "correctionalFacilityCases": 0,
         "outlookColor": "turquoise",
-        "casesPer100k": 4.2,
-        "positivityRate": 1.43,
-        "startDate": "2021-03-23",
-        "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "casesPer100k": 5.9,
+        "positivityRate": 2.05,
+        "startDate": "2021-04-06",
+        "improving": 0,
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 57,
@@ -1108,12 +1108,12 @@
         "long": -105.846836,
         "correctionalFacilityCases": 47,
         "outlookColor": "turquoise",
-        "casesPer100k": 5.8,
-        "positivityRate": 2.71,
-        "startDate": "2021-03-23",
-        "improving": 1,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "casesPer100k": 3.6,
+        "positivityRate": 1.5,
+        "startDate": "2021-04-06",
+        "improving": 0,
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 59,
@@ -1144,12 +1144,12 @@
         "long": -103.475723,
         "correctionalFacilityCases": 167,
         "outlookColor": "turquoise",
-        "casesPer100k": 0,
-        "positivityRate": 0,
-        "startDate": "2021-03-23",
+        "casesPer100k": 2.3,
+        "positivityRate": 1.6,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     },
     {
         "countyId": 61,
@@ -1180,11 +1180,11 @@
         "long": -106.806582,
         "correctionalFacilityCases": 293,
         "outlookColor": "yellow",
-        "casesPer100k": 10.1,
-        "positivityRate": 2.77,
-        "startDate": "2021-03-23",
+        "casesPer100k": 11.9,
+        "positivityRate": 3.07,
+        "startDate": "2021-04-06",
         "improving": 0,
-        "endDate": "2021-04-05",
-        "nextUpdate": "2021-04-21"
+        "endDate": "2021-04-19",
+        "nextUpdate": "2021-05-05"
     }
 ]
