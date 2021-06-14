@@ -22,7 +22,7 @@ timestamp = datetime.datetime.now().strftime("%Y-%m-%d")
 
 dir_current = os.path.dirname(os.path.realpath(__file__))
 
-dir_pdfs = "weekly-reports"
+dir_pdfs = "acquired-reports"
 
 file_output = '{0}-nm-crop-outlook.pdf'.format(timestamp)
 
