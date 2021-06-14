@@ -1,7 +1,7 @@
-name: Acquire biweekly data used to determine New Mexico's Covid-19 tiers
+name: Acquire weekly USDA report on New Mexico crops forecast
 on:
   schedule:
-    - cron:  '0 16 * * 3'
+    - cron:  '0 13 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -21,13 +21,13 @@ jobs:
 
       - name: Run
         run: |
-          pipenv run python nm-red-to-green-framework/1-acquire-nm-framework-tiers.py
+          pipenv run python usda-nm-crop-progress/1-acquire-nm-crop-progress.py
 
       # If any new data was fetched, create a new commit to the repo.
       - name: Commit data to repo.
         uses: ./.github/actions/commit
         if: always()
         with:
-            message: Acquired latest NM county-level covid tiers
+            message: Acquired latest NM Crop Progress Report pdf
             email_username: ${{ secrets.EMAIL_USERNAME }}
             username: ${{ secrets.USERNAME }}
