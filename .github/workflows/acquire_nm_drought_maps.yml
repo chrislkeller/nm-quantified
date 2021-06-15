@@ -1,0 +1,33 @@
+name: Acquire weekly U.S. Drought Monitor maps
+on:
+  schedule:
+    - cron:  '0 15 * * 2'
+  workflow_dispatch:
+
+jobs:
+  acquire_csv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Setup Python 3.7.
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Install dependencies
+        uses: ./.github/actions/install-pipenv
+
+      - name: Run
+        run: |
+          pipenv run python nm-drought-maps/1-acquire-current-nm-drought-map.py
+
+      # If any new data was fetched, create a new commit to the repo.
+      - name: Commit data to repo.
+        uses: ./.github/actions/commit
+        if: always()
+        with:
+            message: Acquired latest NM drought map from U.S. Drought Monitor
+            email_username: ${{ secrets.EMAIL_USERNAME }}
+            username: ${{ secrets.USERNAME }}
