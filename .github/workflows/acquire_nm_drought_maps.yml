@@ -1,7 +1,7 @@
 name: Acquire weekly U.S. Drought Monitor maps
 on:
   schedule:
-    - cron:  '0 15 * * 2'
+    - cron:  '0 15 * * 4'
   workflow_dispatch:
 
 jobs:
