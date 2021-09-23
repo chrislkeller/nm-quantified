@@ -10,8 +10,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE
       # so your job can access it
-      - name: Checkout
-        uses: actions/checkout@main
+      - uses: actions/checkout@main
 
       # https://github.com/marketplace/actions/install-python-pipenv-and-pipfile-packages
       - name: Install Python, pipenv and Pipfile packages
