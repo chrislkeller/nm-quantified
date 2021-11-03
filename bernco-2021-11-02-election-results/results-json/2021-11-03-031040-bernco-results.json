@@ -1,0 +1,1823 @@
+{
+    "juristiction": {
+        "name": "BERNALILLO",
+        "electionType": "Regular Local Election",
+        "timestamp": "11/2/2021 8:46:48 PM",
+        "date": "November, 2 2021",
+        "shortTime": "8:46 PM",
+        "shortDate": "11/2/2021",
+        "version": "1.0",
+        "totalVotingCenters": 72,
+        "votingCentersReporting": 0
+    },
+    "contests": [
+        {
+            "Key": "002-07298",
+            "Value": {
+                "id": "002-07298",
+                "name": "MAYOR CITY OF ALBUQUERQUE",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "1",
+                "grouping": "municipal",
+                "choices": {
+                    "07298-2584": {
+                        "id": "07298-2584",
+                        "name": "EDDY ARAGON",
+                        "type": "Regular",
+                        "order": "1",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 3001,
+                        "totalVotes": 15294,
+                        "early": 10697,
+                        "absentee": 1596
+                    },
+                    "07298-2678": {
+                        "id": "07298-2678",
+                        "name": "TIMOTHY M KELLER",
+                        "type": "Regular",
+                        "order": "2",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 6775,
+                        "totalVotes": 51679,
+                        "early": 34891,
+                        "absentee": 10013
+                    },
+                    "07298-2810": {
+                        "id": "07298-2810",
+                        "name": "MANUEL GONZALES, III",
+                        "type": "Regular",
+                        "order": "3",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 3925,
+                        "totalVotes": 22644,
+                        "early": 15753,
+                        "absentee": 2966
+                    },
+                    "W002-07298": {
+                        "id": "W002-07298",
+                        "name": "Write-in",
+                        "type": "Write In",
+                        "order": "92",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 63,
+                        "totalVotes": 213,
+                        "early": 144,
+                        "absentee": 6
+                    },
+                    "": {
+                        "id": "",
+                        "name": "PATRICK B SAIS",
+                        "type": "ResolvedWritein",
+                        "order": "95",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 0,
+                        "totalVotes": 0,
+                        "early": 0,
+                        "absentee": 0
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07299",
+            "Value": {
+                "id": "002-07299",
+                "name": "CITY OF ALBUQUERQUE COUNCIL DISTRICT 1",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "2",
+                "grouping": "municipal",
+                "choices": {
+                    "07299-2779": {
+                        "id": "07299-2779",
+                        "name": "LOUIE SANCHEZ",
+                        "type": "Regular",
+                        "order": "4",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 1070,
+                        "totalVotes": 5264,
+                        "early": 3553,
+                        "absentee": 641
+                    },
+                    "07299-2883": {
+                        "id": "07299-2883",
+                        "name": "THANH-LAN THI SENA",
+                        "type": "Regular",
+                        "order": "5",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 707,
+                        "totalVotes": 4367,
+                        "early": 2935,
+                        "absentee": 725
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07300",
+            "Value": {
+                "id": "002-07300",
+                "name": "CITY OF ALBUQUERQUE COUNCIL DISTRICT 3",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "3",
+                "grouping": "municipal",
+                "choices": {
+                    "07300-2805": {
+                        "id": "07300-2805",
+                        "name": "KLARISSA J PEÑA",
+                        "type": "Regular",
+                        "order": "6",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 594,
+                        "totalVotes": 2753,
+                        "early": 1813,
+                        "absentee": 346
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07301",
+            "Value": {
+                "id": "002-07301",
+                "name": "CITY OF ALBUQUERQUE COUNCIL DISTRICT 5",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "4",
+                "grouping": "municipal",
+                "choices": {
+                    "07301-2831": {
+                        "id": "07301-2831",
+                        "name": "CYNTHIA D BORREGO",
+                        "type": "Regular",
+                        "order": "7",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 751,
+                        "totalVotes": 4608,
+                        "early": 2991,
+                        "absentee": 866
+                    },
+                    "07301-2814": {
+                        "id": "07301-2814",
+                        "name": "PHILLIP RAY RAMIREZ",
+                        "type": "Regular",
+                        "order": "8",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 258,
+                        "totalVotes": 915,
+                        "early": 564,
+                        "absentee": 93
+                    },
+                    "07301-2829": {
+                        "id": "07301-2829",
+                        "name": "DAN LEWIS",
+                        "type": "Regular",
+                        "order": "9",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 1224,
+                        "totalVotes": 5781,
+                        "early": 3876,
+                        "absentee": 681
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07302",
+            "Value": {
+                "id": "002-07302",
+                "name": "CITY OF ALBUQUERQUE COUNCIL DISTRICT 7",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "5",
+                "grouping": "municipal",
+                "choices": {
+                    "07302-3216": {
+                        "id": "07302-3216",
+                        "name": "MAURO WALDEN-MONTOYA",
+                        "type": "Regular",
+                        "order": "10",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 154,
+                        "totalVotes": 905,
+                        "early": 580,
+                        "absentee": 171
+                    },
+                    "07302-2695": {
+                        "id": "07302-2695",
+                        "name": "EMILIE MARIE DE ANGELIS",
+                        "type": "Regular",
+                        "order": "11",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 256,
+                        "totalVotes": 1486,
+                        "early": 932,
+                        "absentee": 298
+                    },
+                    "07302-2913": {
+                        "id": "07302-2913",
+                        "name": "TAMMY L FIEBELKORN",
+                        "type": "Regular",
+                        "order": "12",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 363,
+                        "totalVotes": 2525,
+                        "early": 1679,
+                        "absentee": 483
+                    },
+                    "07302-2862": {
+                        "id": "07302-2862",
+                        "name": "TRAVIS B KELLERMAN",
+                        "type": "Regular",
+                        "order": "13",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 246,
+                        "totalVotes": 1395,
+                        "early": 894,
+                        "absentee": 255
+                    },
+                    "07302-2728": {
+                        "id": "07302-2728",
+                        "name": "LORI LEE ROBERTSON",
+                        "type": "Regular",
+                        "order": "14",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 502,
+                        "totalVotes": 3147,
+                        "early": 2133,
+                        "absentee": 512
+                    },
+                    "07302-3095": {
+                        "id": "07302-3095",
+                        "name": "ANDRES P VALDEZ",
+                        "type": "Regular",
+                        "order": "15",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 109,
+                        "totalVotes": 473,
+                        "early": 312,
+                        "absentee": 52
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07303",
+            "Value": {
+                "id": "002-07303",
+                "name": "CITY OF ALBUQUERQUE COUNCIL DISTRICT 9",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "6",
+                "grouping": "municipal",
+                "choices": {
+                    "07303-2639": {
+                        "id": "07303-2639",
+                        "name": "BYRON K POWDRELL",
+                        "type": "Regular",
+                        "order": "16",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 301,
+                        "totalVotes": 2570,
+                        "early": 1730,
+                        "absentee": 539
+                    },
+                    "07303-2890": {
+                        "id": "07303-2890",
+                        "name": "ROBERT C GRILLEY, JR",
+                        "type": "Regular",
+                        "order": "17",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 221,
+                        "totalVotes": 2818,
+                        "early": 1942,
+                        "absentee": 655
+                    },
+                    "07303-2867": {
+                        "id": "07303-2867",
+                        "name": "RENEÉ GROUT",
+                        "type": "Regular",
+                        "order": "18",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 400,
+                        "totalVotes": 3974,
+                        "early": 2945,
+                        "absentee": 629
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07596",
+            "Value": {
+                "id": "002-07596",
+                "name": "TRUSTEE POSITIONS 1 & 2 LOS RANCHOS DE ALBUQUERQUE",
+                "pos": "2",
+                "partyId": "",
+                "disabled": "0",
+                "order": "7",
+                "grouping": "municipal",
+                "choices": {
+                    "07596-2360": {
+                        "id": "07596-2360",
+                        "name": "GILBERT L BENAVIDES",
+                        "type": "Regular",
+                        "order": "19",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 12,
+                        "totalVotes": 483,
+                        "early": 416,
+                        "absentee": 55
+                    },
+                    "07596-2923": {
+                        "id": "07596-2923",
+                        "name": "LORETTA M SMITH",
+                        "type": "Regular",
+                        "order": "20",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 7,
+                        "totalVotes": 285,
+                        "early": 249,
+                        "absentee": 29
+                    },
+                    "07596-2949": {
+                        "id": "07596-2949",
+                        "name": "DANIEL L GAY",
+                        "type": "Regular",
+                        "order": "21",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 5,
+                        "totalVotes": 247,
+                        "early": 229,
+                        "absentee": 13
+                    },
+                    "07596-2943": {
+                        "id": "07596-2943",
+                        "name": "GEORGE E RADNOVICH",
+                        "type": "Regular",
+                        "order": "22",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 8,
+                        "totalVotes": 389,
+                        "early": 335,
+                        "absentee": 46
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07594",
+            "Value": {
+                "id": "002-07594",
+                "name": "MUNICIPAL JUDGE LOS RANCHOS DE ALBUQUERQUE",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "8",
+                "grouping": "municipal",
+                "choices": {
+                    "07594-3057": {
+                        "id": "07594-3057",
+                        "name": "DIANE E ALBERT",
+                        "type": "Regular",
+                        "order": "23",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 12,
+                        "totalVotes": 441,
+                        "early": 380,
+                        "absentee": 49
+                    },
+                    "07594-2467": {
+                        "id": "07594-2467",
+                        "name": "HENRY ALEXANDER KELLY",
+                        "type": "Regular",
+                        "order": "24",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 15,
+                        "totalVotes": 406,
+                        "early": 357,
+                        "absentee": 34
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07595",
+            "Value": {
+                "id": "002-07595",
+                "name": "COUNCILOR POSITIONS 1 & 2 VILLAGE OF TIJERAS",
+                "pos": "2",
+                "partyId": "",
+                "disabled": "0",
+                "order": "9",
+                "grouping": "municipal",
+                "choices": {
+                    "07595-2371": {
+                        "id": "07595-2371",
+                        "name": "MATT J ARMENTA",
+                        "type": "Regular",
+                        "order": "25",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 40,
+                        "totalVotes": 94,
+                        "early": 50,
+                        "absentee": 4
+                    },
+                    "07595-2840": {
+                        "id": "07595-2840",
+                        "name": "JONATHAN M ORTIZ",
+                        "type": "Regular",
+                        "order": "26",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 33,
+                        "totalVotes": 76,
+                        "early": 38,
+                        "absentee": 5
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07603",
+            "Value": {
+                "id": "002-07603",
+                "name": "ALBUQUERQUE MUNICIPAL SCHOOL BOARD DISTRICT 3",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "10",
+                "grouping": "school board",
+                "choices": {
+                    "07603-2259": {
+                        "id": "07603-2259",
+                        "name": "JINX F BASKERVILLE",
+                        "type": "Regular",
+                        "order": "27",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 639,
+                        "totalVotes": 5235,
+                        "early": 3741,
+                        "absentee": 855
+                    },
+                    "07603-2572": {
+                        "id": "07603-2572",
+                        "name": "ALI ENNENGA",
+                        "type": "Regular",
+                        "order": "28",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 286,
+                        "totalVotes": 1500,
+                        "early": 1014,
+                        "absentee": 200
+                    },
+                    "07603-2783": {
+                        "id": "07603-2783",
+                        "name": "LUCAS STEPHEN GAUTHIER",
+                        "type": "Regular",
+                        "order": "29",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 189,
+                        "totalVotes": 1022,
+                        "early": 713,
+                        "absentee": 120
+                    },
+                    "07603-2536": {
+                        "id": "07603-2536",
+                        "name": "DANIELLE MARIE GONZALES",
+                        "type": "Regular",
+                        "order": "30",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 860,
+                        "totalVotes": 5754,
+                        "early": 3967,
+                        "absentee": 927
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07604",
+            "Value": {
+                "id": "002-07604",
+                "name": "ALBUQUERQUE MUNICIPAL SCHOOL BOARD DISTRICT 5",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "11",
+                "grouping": "school board",
+                "choices": {
+                    "07604-2918": {
+                        "id": "07604-2918",
+                        "name": "CRYSTAL ELAINE TAPIA-ROMERO",
+                        "type": "Regular",
+                        "order": "31",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 1002,
+                        "totalVotes": 4807,
+                        "early": 3192,
+                        "absentee": 613
+                    },
+                    "07604-3255": {
+                        "id": "07604-3255",
+                        "name": "EMMA JEAN JONES",
+                        "type": "Regular",
+                        "order": "32",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 508,
+                        "totalVotes": 2362,
+                        "early": 1553,
+                        "absentee": 301
+                    },
+                    "07604-2270": {
+                        "id": "07604-2270",
+                        "name": "UCHE M OHIRI",
+                        "type": "Regular",
+                        "order": "33",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 277,
+                        "totalVotes": 1809,
+                        "early": 1250,
+                        "absentee": 282
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07605",
+            "Value": {
+                "id": "002-07605",
+                "name": "ALBUQUERQUE MUNICIPAL SCHOOL BOARD DISTRICT 6",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "12",
+                "grouping": "school board",
+                "choices": {
+                    "07605-2337": {
+                        "id": "07605-2337",
+                        "name": "JOSEFINA ELIZABET DOMINGUEZ",
+                        "type": "Regular",
+                        "order": "34",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 1150,
+                        "totalVotes": 8392,
+                        "early": 5488,
+                        "absentee": 1754
+                    },
+                    "07605-2990": {
+                        "id": "07605-2990",
+                        "name": "ARTHUR J CARRASCO",
+                        "type": "Regular",
+                        "order": "35",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 1084,
+                        "totalVotes": 6334,
+                        "early": 4250,
+                        "absentee": 1000
+                    },
+                    "W002-07605": {
+                        "id": "W002-07605",
+                        "name": "Write-in",
+                        "type": "Write In",
+                        "order": "93",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 77,
+                        "totalVotes": 333,
+                        "early": 218,
+                        "absentee": 38
+                    },
+                    "": {
+                        "id": "",
+                        "name": "CELIA CORTEZ",
+                        "type": "ResolvedWritein",
+                        "order": "96",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 0,
+                        "totalVotes": 0,
+                        "early": 0,
+                        "absentee": 0
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07606",
+            "Value": {
+                "id": "002-07606",
+                "name": "ALBUQUERQUE MUNICIPAL SCHOOL BOARD DISTRICT 7",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "13",
+                "grouping": "school board",
+                "choices": {
+                    "07606-2634": {
+                        "id": "07606-2634",
+                        "name": "COURTNEY I JACKSON",
+                        "type": "Regular",
+                        "order": "36",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 613,
+                        "totalVotes": 9153,
+                        "early": 7115,
+                        "absentee": 1425
+                    },
+                    "07606-2788": {
+                        "id": "07606-2788",
+                        "name": "NICHOLAS DALE BEVINS",
+                        "type": "Regular",
+                        "order": "37",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 177,
+                        "totalVotes": 1975,
+                        "early": 1352,
+                        "absentee": 446
+                    },
+                    "07606-2674": {
+                        "id": "07606-2674",
+                        "name": "JULIE BRENNING",
+                        "type": "Regular",
+                        "order": "38",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 486,
+                        "totalVotes": 8455,
+                        "early": 6159,
+                        "absentee": 1810
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07053",
+            "Value": {
+                "id": "002-07053",
+                "name": "MORIARTY-EDGEWOOD SCHOOL BOARD POSITION 1",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "14",
+                "grouping": "school board",
+                "choices": {
+                    "07053-2796": {
+                        "id": "07053-2796",
+                        "name": "REBECCA 'BECKY' KING SPINDLE",
+                        "type": "Regular",
+                        "order": "39",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 22,
+                        "totalVotes": 58,
+                        "early": 29,
+                        "absentee": 7
+                    },
+                    "07053-3109": {
+                        "id": "07053-3109",
+                        "name": "LINDA R HUDSON",
+                        "type": "Regular",
+                        "order": "40",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 25,
+                        "totalVotes": 66,
+                        "early": 36,
+                        "absentee": 5
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07054",
+            "Value": {
+                "id": "002-07054",
+                "name": "MORIARTY-EDGEWOOD SCHOOL BOARD POSITION 5",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "15",
+                "grouping": "school board",
+                "choices": {
+                    "W002-07054": {
+                        "id": "W002-07054",
+                        "name": "Write-in",
+                        "type": "Write In",
+                        "order": "91",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 65,
+                        "totalVotes": 109,
+                        "early": 43,
+                        "absentee": 1
+                    },
+                    "": {
+                        "id": "",
+                        "name": "LYNDSI KAYE DONNER",
+                        "type": "ResolvedWritein",
+                        "order": "98",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 0,
+                        "totalVotes": 0,
+                        "early": 0,
+                        "absentee": 0
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07599",
+            "Value": {
+                "id": "002-07599",
+                "name": "CENTRAL NEW MEXICO COMMUNITY COLLEGE DISTRICT 1",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "16",
+                "grouping": "cnm",
+                "choices": {
+                    "07599-2906": {
+                        "id": "07599-2906",
+                        "name": "CHARLES N OFELT",
+                        "type": "Regular",
+                        "order": "41",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 2086,
+                        "totalVotes": 11117,
+                        "early": 7430,
+                        "absentee": 1601
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07600",
+            "Value": {
+                "id": "002-07600",
+                "name": "CENTRAL NEW MEXICO COMMUNITY COLLEGE DISTRICT 3",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "17",
+                "grouping": "cnm",
+                "choices": {
+                    "07600-2525": {
+                        "id": "07600-2525",
+                        "name": "THOMAS E SWISSTACK",
+                        "type": "Regular",
+                        "order": "42",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 593,
+                        "totalVotes": 1807,
+                        "early": 906,
+                        "absentee": 308
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07601",
+            "Value": {
+                "id": "002-07601",
+                "name": "CENTRAL NEW MEXICO COMMUNITY COLLEGE DISTRICT 5",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "18",
+                "grouping": "cnm",
+                "choices": {
+                    "07601-2817": {
+                        "id": "07601-2817",
+                        "name": "NANCY A BACA",
+                        "type": "Regular",
+                        "order": "43",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 2108,
+                        "totalVotes": 11578,
+                        "early": 7664,
+                        "absentee": 1806
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07602",
+            "Value": {
+                "id": "002-07602",
+                "name": "CENTRAL NEW MEXICO COMMUNITY COLLEGE DISTRICT 7",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "19",
+                "grouping": "cnm",
+                "choices": {
+                    "07602-2619": {
+                        "id": "07602-2619",
+                        "name": "ROBERT P SCHOENFELDER",
+                        "type": "Regular",
+                        "order": "44",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 1367,
+                        "totalVotes": 15413,
+                        "early": 11054,
+                        "absentee": 2992
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07713",
+            "Value": {
+                "id": "002-07713",
+                "name": "CIUDAD SOIL & WATER CONSERVATION BOARD POSITION 3 SUPERVISOR",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "20",
+                "grouping": "swcd",
+                "choices": {
+                    "07713-3233": {
+                        "id": "07713-3233",
+                        "name": "FREDERICK J SNOY, II",
+                        "type": "Regular",
+                        "order": "45",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 5018,
+                        "totalVotes": 28599,
+                        "early": 19558,
+                        "absentee": 4023
+                    },
+                    "07713-3089": {
+                        "id": "07713-3089",
+                        "name": "ZOE ECONOMOU",
+                        "type": "Regular",
+                        "order": "46",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 7163,
+                        "totalVotes": 44509,
+                        "early": 28907,
+                        "absentee": 8439
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07711",
+            "Value": {
+                "id": "002-07711",
+                "name": "CIUDAD SOIL & WATER CONSERVATION BOARD POSITION 4 SUPERVISOR",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "21",
+                "grouping": "swcd",
+                "choices": {
+                    "07711-3200": {
+                        "id": "07711-3200",
+                        "name": "KAELAN ASHBY DREYER",
+                        "type": "Regular",
+                        "order": "47",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 5387,
+                        "totalVotes": 30203,
+                        "early": 20669,
+                        "absentee": 4147
+                    },
+                    "07711-2605": {
+                        "id": "07711-2605",
+                        "name": "JAMES STEVEN GLASS",
+                        "type": "Regular",
+                        "order": "48",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 6548,
+                        "totalVotes": 41106,
+                        "early": 26493,
+                        "absentee": 8065
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07055",
+            "Value": {
+                "id": "002-07055",
+                "name": "EDGEWOOD SOIL & WATER CONSERVATION BOARD POSITION 3 SUPERVISOR",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "22",
+                "grouping": "swcd",
+                "choices": {
+                    "07055-2347": {
+                        "id": "07055-2347",
+                        "name": "BILL BRUCE KING",
+                        "type": "Regular",
+                        "order": "49",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 223,
+                        "totalVotes": 508,
+                        "early": 239,
+                        "absentee": 46
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07056",
+            "Value": {
+                "id": "002-07056",
+                "name": "EDGEWOOD SOIL & WATER CONSERVATION BOARD POSITION 4 SUPERVISOR",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "23",
+                "grouping": "swcd",
+                "choices": {
+                    "07056-2965": {
+                        "id": "07056-2965",
+                        "name": "BILL R WILLIAMS",
+                        "type": "Regular",
+                        "order": "50",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 237,
+                        "totalVotes": 541,
+                        "early": 258,
+                        "absentee": 46
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07345",
+            "Value": {
+                "id": "002-07345",
+                "name": "VALENCIA SOIL & WATER CONSERVATION BOARD POSITION 2 SUPERVISOR",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "24",
+                "grouping": "swcd",
+                "choices": {
+                    "07345-2290": {
+                        "id": "07345-2290",
+                        "name": "DUANA M DRASZKIEWICZ",
+                        "type": "Regular",
+                        "order": "51",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 6,
+                        "totalVotes": 15,
+                        "early": 8,
+                        "absentee": 1
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07346",
+            "Value": {
+                "id": "002-07346",
+                "name": "VALENCIA SOIL & WATER CONSERVATION BOARD POSITION 3 SUPERVISOR",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "25",
+                "grouping": "swcd",
+                "choices": {
+                    "07346-2808": {
+                        "id": "07346-2808",
+                        "name": "PAUL JOSEPH MOYA",
+                        "type": "Regular",
+                        "order": "52",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 9,
+                        "totalVotes": 21,
+                        "early": 11,
+                        "absentee": 1
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07347",
+            "Value": {
+                "id": "002-07347",
+                "name": "VALENCIA SOIL & WATER CONSERVATION BOARD POSITION 4 SUPERVISOR",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "26",
+                "grouping": "swcd",
+                "choices": {
+                    "07347-2737": {
+                        "id": "07347-2737",
+                        "name": "TERESA K E SMITH DE CHERIF",
+                        "type": "Regular",
+                        "order": "53",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 8,
+                        "totalVotes": 19,
+                        "early": 11,
+                        "absentee": 0
+                    },
+                    "07347-3198": {
+                        "id": "07347-3198",
+                        "name": "ALBERT DAVID SHRECENGOST",
+                        "type": "Regular",
+                        "order": "54",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 1,
+                        "totalVotes": 4,
+                        "early": 2,
+                        "absentee": 1
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07622",
+            "Value": {
+                "id": "002-07622",
+                "name": "AMAFCA DISTRICT 1 DIRECTOR",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "27",
+                "grouping": "flood/special",
+                "choices": {
+                    "07622-2723": {
+                        "id": "07622-2723",
+                        "name": "ELIZABETH NEWLIN TAYLOR",
+                        "type": "Regular",
+                        "order": "55",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 2588,
+                        "totalVotes": 9646,
+                        "early": 5816,
+                        "absentee": 1242
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07623",
+            "Value": {
+                "id": "002-07623",
+                "name": "AMAFCA DISTRICT 2 DIRECTOR",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "28",
+                "grouping": "flood/special",
+                "choices": {
+                    "W002-07623": {
+                        "id": "W002-07623",
+                        "name": "Write-in",
+                        "type": "Write In",
+                        "order": "90",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 787,
+                        "totalVotes": 3889,
+                        "early": 3030,
+                        "absentee": 72
+                    },
+                    "": {
+                        "id": "",
+                        "name": "ORLANDO G MARTINEZ",
+                        "type": "ResolvedWritein",
+                        "order": "97",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 0,
+                        "totalVotes": 0,
+                        "early": 0,
+                        "absentee": 0
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07620",
+            "Value": {
+                "id": "002-07620",
+                "name": "PARADISE HILLS SPECIAL ZONING DISTRICT BOARD DISTRICT SEAT 3 COMMISSIONER",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "29",
+                "grouping": "flood/special",
+                "choices": {
+                    "07620-2846": {
+                        "id": "07620-2846",
+                        "name": "ELIZABETH K HALEY",
+                        "type": "Regular",
+                        "order": "56",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 76,
+                        "totalVotes": 314,
+                        "early": 183,
+                        "absentee": 55
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-07621",
+            "Value": {
+                "id": "002-07621",
+                "name": "PARADISE HILLS SPECIAL ZONING DISTRICT BOARD DISTRICT SEAT 4 COMMISSIONER",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "30",
+                "grouping": "flood/special",
+                "choices": {
+                    "07621-2857": {
+                        "id": "07621-2857",
+                        "name": "VALENTINE W VAUGHN, JR",
+                        "type": "Regular",
+                        "order": "57",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 77,
+                        "totalVotes": 304,
+                        "early": 170,
+                        "absentee": 57
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00811",
+            "Value": {
+                "id": "002-00811",
+                "name": "THE GROSS RECEIPTS TAX REVENUE BONDS FOR MULTI-USE PUBLIC STADIUM",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "31",
+                "grouping": "questions",
+                "choices": {
+                    "00811-1811": {
+                        "id": "00811-1811",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "58",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 4731,
+                        "totalVotes": 30533,
+                        "early": 21118,
+                        "absentee": 4684
+                    },
+                    "00811-2811": {
+                        "id": "00811-2811",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "59",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 8874,
+                        "totalVotes": 58396,
+                        "early": 39679,
+                        "absentee": 9843
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00812",
+            "Value": {
+                "id": "002-00812",
+                "name": "GENERAL OBLIGATION PUBLIC SAFETY",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "32",
+                "grouping": "questions",
+                "choices": {
+                    "00812-1812": {
+                        "id": "00812-1812",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "60",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 9643,
+                        "totalVotes": 65887,
+                        "early": 44618,
+                        "absentee": 11626
+                    },
+                    "00812-2812": {
+                        "id": "00812-2812",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "61",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 3804,
+                        "totalVotes": 22168,
+                        "early": 15581,
+                        "absentee": 2783
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00813",
+            "Value": {
+                "id": "002-00813",
+                "name": "GENERAL OBLIGATION SENIOR, FAMILY, COMMUNITY CENTER, HOMELESS, AND COMMUNITY ENHANCEMENT BONDS",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "33",
+                "grouping": "questions",
+                "choices": {
+                    "00813-1813": {
+                        "id": "00813-1813",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "62",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 9660,
+                        "totalVotes": 63811,
+                        "early": 42957,
+                        "absentee": 11194
+                    },
+                    "00813-2813": {
+                        "id": "00813-2813",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "63",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 3784,
+                        "totalVotes": 24383,
+                        "early": 17375,
+                        "absentee": 3224
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00814",
+            "Value": {
+                "id": "002-00814",
+                "name": "GENERAL OBLIGATION PARKS AND RECREATION BONDS",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "34",
+                "grouping": "questions",
+                "choices": {
+                    "00814-1814": {
+                        "id": "00814-1814",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "64",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 9862,
+                        "totalVotes": 65111,
+                        "early": 44133,
+                        "absentee": 11116
+                    },
+                    "00814-2814": {
+                        "id": "00814-2814",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "65",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 3581,
+                        "totalVotes": 23027,
+                        "early": 16180,
+                        "absentee": 3266
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00815",
+            "Value": {
+                "id": "002-00815",
+                "name": "GENERAL OBLIGATION ENERGY AND WATER CONSERVATION, PUBLIC FACILITIES, AND SYSTEM MODERNIZATION BONDS",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "35",
+                "grouping": "questions",
+                "choices": {
+                    "00815-1815": {
+                        "id": "00815-1815",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "66",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 9192,
+                        "totalVotes": 63139,
+                        "early": 42789,
+                        "absentee": 11158
+                    },
+                    "00815-2815": {
+                        "id": "00815-2815",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "67",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 4160,
+                        "totalVotes": 24492,
+                        "early": 17148,
+                        "absentee": 3184
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00816",
+            "Value": {
+                "id": "002-00816",
+                "name": "GENERAL OBLIGATION LIBRARY BONDS",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "36",
+                "grouping": "questions",
+                "choices": {
+                    "00816-1816": {
+                        "id": "00816-1816",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "68",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 9241,
+                        "totalVotes": 62356,
+                        "early": 42139,
+                        "absentee": 10976
+                    },
+                    "00816-2816": {
+                        "id": "00816-2816",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "69",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 4166,
+                        "totalVotes": 25475,
+                        "early": 17929,
+                        "absentee": 3380
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00817",
+            "Value": {
+                "id": "002-00817",
+                "name": "GENERAL OBLIGATION STREET BONDS",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "37",
+                "grouping": "questions",
+                "choices": {
+                    "00817-1817": {
+                        "id": "00817-1817",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "70",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 10171,
+                        "totalVotes": 69124,
+                        "early": 46922,
+                        "absentee": 12031
+                    },
+                    "00817-2817": {
+                        "id": "00817-2817",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "71",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 3104,
+                        "totalVotes": 18119,
+                        "early": 12757,
+                        "absentee": 2258
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00818",
+            "Value": {
+                "id": "002-00818",
+                "name": "GENERAL OBLIGATION PUBLIC TRANSPORTATION BONDS",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "38",
+                "grouping": "questions",
+                "choices": {
+                    "00818-1818": {
+                        "id": "00818-1818",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "72",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 7049,
+                        "totalVotes": 50046,
+                        "early": 34086,
+                        "absentee": 8911
+                    },
+                    "00818-2818": {
+                        "id": "00818-2818",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "73",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 5895,
+                        "totalVotes": 34722,
+                        "early": 23905,
+                        "absentee": 4922
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00819",
+            "Value": {
+                "id": "002-00819",
+                "name": "GENERAL OBLIGATION STORM SEWER SYSTEM BONDS",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "39",
+                "grouping": "questions",
+                "choices": {
+                    "00819-1819": {
+                        "id": "00819-1819",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "74",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 9257,
+                        "totalVotes": 64696,
+                        "early": 43931,
+                        "absentee": 11508
+                    },
+                    "00819-2819": {
+                        "id": "00819-2819",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "75",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 3623,
+                        "totalVotes": 20067,
+                        "early": 14064,
+                        "absentee": 2380
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00820",
+            "Value": {
+                "id": "002-00820",
+                "name": "GENERAL OBLIGATION MUSEUM AND CULTURAL FACILITIES BONDS",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "40",
+                "grouping": "questions",
+                "choices": {
+                    "00820-1820": {
+                        "id": "00820-1820",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "76",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 8470,
+                        "totalVotes": 57229,
+                        "early": 38866,
+                        "absentee": 9893
+                    },
+                    "00820-2820": {
+                        "id": "00820-2820",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "77",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 4459,
+                        "totalVotes": 27606,
+                        "early": 19205,
+                        "absentee": 3942
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00821",
+            "Value": {
+                "id": "002-00821",
+                "name": "GENERAL OBLIGATION AFFORDABLE HOUSING BONDS",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "41",
+                "grouping": "questions",
+                "choices": {
+                    "00821-1821": {
+                        "id": "00821-1821",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "78",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 9065,
+                        "totalVotes": 60905,
+                        "early": 40866,
+                        "absentee": 10974
+                    },
+                    "00821-2821": {
+                        "id": "00821-2821",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "79",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 3944,
+                        "totalVotes": 24309,
+                        "early": 17403,
+                        "absentee": 2962
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00822",
+            "Value": {
+                "id": "002-00822",
+                "name": "GENERAL OBLIGATION METROPOLITAN REDEVELOPMENT BONDS",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "42",
+                "grouping": "questions",
+                "choices": {
+                    "00822-1822": {
+                        "id": "00822-1822",
+                        "name": "FOR GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "80",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 6815,
+                        "totalVotes": 48018,
+                        "early": 32732,
+                        "absentee": 8471
+                    },
+                    "00822-2822": {
+                        "id": "00822-2822",
+                        "name": "AGAINST GENERAL OBLIGATION BONDS",
+                        "type": "Regular",
+                        "order": "81",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 5850,
+                        "totalVotes": 34943,
+                        "early": 24035,
+                        "absentee": 5058
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00823",
+            "Value": {
+                "id": "002-00823",
+                "name": "ALBUQUERQUE MUNICIPAL SCHOOL DISTRICT GENERAL OBLIGATION BOND QUESTION 1",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "43",
+                "grouping": "questions",
+                "choices": {
+                    "00823-1823": {
+                        "id": "00823-1823",
+                        "name": "FOR THE SCHOOL DISTRICT BONDS",
+                        "type": "Regular",
+                        "order": "82",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 11053,
+                        "totalVotes": 65987,
+                        "early": 43875,
+                        "absentee": 11059
+                    },
+                    "00823-2823": {
+                        "id": "00823-2823",
+                        "name": "AGAINST THE SCHOOL DISTRICT BONDS",
+                        "type": "Regular",
+                        "order": "83",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 4861,
+                        "totalVotes": 29320,
+                        "early": 20318,
+                        "absentee": 4141
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00824",
+            "Value": {
+                "id": "002-00824",
+                "name": "ALBUQUERQUE MUNICIPAL SCHOOL DISTRICT PUBLIC SCHOOL BUILDINGS ACT TAX QUESTION",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "44",
+                "grouping": "questions",
+                "choices": {
+                    "00824-1824": {
+                        "id": "00824-1824",
+                        "name": "FOR THE PUBLIC SCHOOL CAPITAL IMPROVEMENTS TAX",
+                        "type": "Regular",
+                        "order": "84",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 8255,
+                        "totalVotes": 49077,
+                        "early": 33048,
+                        "absentee": 7774
+                    },
+                    "00824-2824": {
+                        "id": "00824-2824",
+                        "name": "AGAINST THE PUBLIC SCHOOL CAPITAL IMPROVEMENTS TAX",
+                        "type": "Regular",
+                        "order": "85",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 7582,
+                        "totalVotes": 46099,
+                        "early": 31095,
+                        "absentee": 7422
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00740",
+            "Value": {
+                "id": "002-00740",
+                "name": "MORIARTY-EDGEWOOD SCHOOL DISTRICT GENERAL OBLIGATION BOND QUESTION 2",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "45",
+                "grouping": "questions",
+                "choices": {
+                    "00740-1740": {
+                        "id": "00740-1740",
+                        "name": "FOR THE SCHOOL DISTRICT BONDS",
+                        "type": "Regular",
+                        "order": "86",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 123,
+                        "totalVotes": 267,
+                        "early": 108,
+                        "absentee": 36
+                    },
+                    "00740-2740": {
+                        "id": "00740-2740",
+                        "name": "AGAINST THE SCHOOL DISTRICT BONDS",
+                        "type": "Regular",
+                        "order": "87",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 73,
+                        "totalVotes": 164,
+                        "early": 74,
+                        "absentee": 17
+                    }
+                }
+            }
+        },
+        {
+            "Key": "002-00741",
+            "Value": {
+                "id": "002-00741",
+                "name": "PUBLIC SCHOOL CAPITAL IMPROVEMENTS TAX QUESTION",
+                "pos": "1",
+                "partyId": "",
+                "disabled": "0",
+                "order": "46",
+                "grouping": "questions",
+                "choices": {
+                    "00741-1741": {
+                        "id": "00741-1741",
+                        "name": "FOR THE PUBLIC SCHOOL CAPITAL IMPROVEMENTS TAX",
+                        "type": "Regular",
+                        "order": "88",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 94,
+                        "totalVotes": 215,
+                        "early": 94,
+                        "absentee": 27
+                    },
+                    "00741-2741": {
+                        "id": "00741-2741",
+                        "name": "AGAINST THE PUBLIC SCHOOL CAPITAL IMPROVEMENTS TAX",
+                        "type": "Regular",
+                        "order": "89",
+                        "disabled": "0",
+                        "prtId": "",
+                        "electionDay": 101,
+                        "totalVotes": 212,
+                        "early": 88,
+                        "absentee": 23
+                    }
+                }
+            }
+        }
+    ]
+}
