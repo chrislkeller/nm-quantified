@@ -2,7 +2,6 @@ name: Acquire Bernalillo County 2021-11-02 election results every 15 minutes
 on:
   schedule:
     - cron:  '*/15  * * * *'
-  workflow_dispatch:
 
 jobs:
   acquire_csv:
