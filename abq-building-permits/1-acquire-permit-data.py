@@ -103,7 +103,7 @@ class BuildingPermitRequest(object):
 
     def handle(self, *args, **kwargs):
         # download the file
-        # self.get_data(self.target_url, self.file_saved)
+        self.get_data(self.target_url, self.file_saved)
 
         # open the downloaded file
         with open(self.file_saved, newline="", encoding="utf-16") as file:
