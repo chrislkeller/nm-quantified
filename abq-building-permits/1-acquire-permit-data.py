@@ -103,7 +103,7 @@ class BuildingPermitRequest(object):
 
     def handle(self, *args, **kwargs):
         # download the file
-        self.get_data(self.target_url, self.file_saved)
+        # self.get_data(self.target_url, self.file_saved)
 
         # open the downloaded file
         with open(self.file_saved, newline="", encoding="utf-16") as file:
@@ -138,7 +138,7 @@ class BuildingPermitRequest(object):
                 item_date > self.my_range
                 and item["CommercialorResidential"] == "Commercial"
             ):
-                item["permit_date"] = item["proper_date"].strftime("%B %d, %Y")
+                item["permit_date"] = item["proper_date"].strftime("%b %d, %Y")
                 item["owner_name"] = item["OwnerName"].title()
                 item["st_ap_style"] = self.st_ap_style(item["SiteStreetType"])
                 item["combined_address"] = "{0} {1} {2} {3}".format(
