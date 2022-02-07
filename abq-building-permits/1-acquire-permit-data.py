@@ -7,6 +7,7 @@ import os
 import logging
 import locale
 import datetime
+import re
 from operator import itemgetter
 from datetime import timedelta
 import pandas as pd
@@ -139,7 +140,9 @@ class BuildingPermitRequest(object):
                 and item["CommercialorResidential"] == "Commercial"
             ):
                 item["permit_date"] = item["proper_date"].strftime("%b %d, %Y")
-                item["owner_name"] = item["OwnerName"].title()
+                item["owner_name"] = re.sub(
+                    "\s-\s[A-Z]+[a-z]+[0-9]+", " ", item["OwnerName"].title()
+                )
                 item["st_ap_style"] = self.st_ap_style(item["SiteStreetType"])
                 item["combined_address"] = "{0} {1} {2} {3}".format(
                     item["SiteNumber"],
