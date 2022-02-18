@@ -28,7 +28,7 @@ file_output = '{0}-nm-crop-outlook.pdf'.format(timestamp)
 
 file_saved = os.path.join(dir_current, dir_pdfs, file_output)
 
-target_url = "https://www.nass.usda.gov/Statistics_by_State/New_Mexico/Publications/Crop_Progress_&_Condition/2021/current_nm.pdf"
+target_url = "https://www.nass.usda.gov/Statistics_by_State/New_Mexico/Publications/Crop_Progress_&_Condition/2022/current_nm.pdf"
 
 response = urllib.request.urlretrieve(target_url, file_saved)
 
