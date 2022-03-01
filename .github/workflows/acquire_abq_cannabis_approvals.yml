@@ -1,7 +1,9 @@
 name: Acquire daily Albuquerque cannabis retail location approvals
+# Controls when the action will run.
 on:
   schedule:
-    - cron:  '0 22 * * SUN'
+    # every day at 8:45 pm UTC/2:55 PM in Albuquerque, NM
+    - cron:  '55 20 * * *'
   workflow_dispatch:
 
 jobs:
