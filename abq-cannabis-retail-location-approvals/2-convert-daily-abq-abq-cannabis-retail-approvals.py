@@ -50,7 +50,7 @@ class CompileDailyCsvFiles(object):
                         _unix
                     ).strftime("%Y-%m-%d")
                     daily_output.append(_this)
-            latest_csv = "latest-nm-vaccine-counties.csv"
+            latest_csv = "latest-abq-cannabis-retail-approvals.csv"
             self.write_csv(latest_csv, daily_output)
 
     def write_csv(self, file, data):
