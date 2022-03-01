@@ -1,0 +1,36 @@
+name: Acquire daily Albuquerque cannabis retail location approvals
+on:
+  schedule:
+    - cron:  '0 22 * * SUN'
+  workflow_dispatch:
+
+jobs:
+  acquire_csv:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE
+      # so your job can access it
+      - uses: actions/checkout@main
+
+      # https://github.com/marketplace/actions/install-python-pipenv-and-pipfile-packages
+      - name: Install Python, pipenv and Pipfile packages
+        uses: palewire/install-python-pipenv-pipfile@v1
+        with:
+          python-version: '3.10'
+
+      - name: Run
+        run: |
+          pipenv run python abq-cannabis-retail-location-approvals/1-acquire-daily-abq-abq-cannabis-retail-approvals.py
+
+      - name: Run
+        run: |
+          pipenv run python abq-cannabis-retail-location-approvals/2-convert-daily-abq-abq-cannabis-retail-approvals.py
+
+      # If any new data was fetched, create a new commit to the repo.
+      - name: Commit data to repo.
+        uses: ./.github/actions/commit
+        if: always()
+        with:
+            message: Acquired latest abq-cannabis-retail-location-approvals
+            email_username: ${{ secrets.EMAIL_USERNAME }}
+            username: ${{ secrets.USERNAME }}
