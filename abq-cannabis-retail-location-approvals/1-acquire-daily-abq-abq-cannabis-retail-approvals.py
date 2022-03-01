@@ -25,17 +25,26 @@ dir_current = os.path.dirname(os.path.realpath(__file__))
 
 dir_data = "daily-data"
 
-file_output = "{0}-abq-cannabis-retail-approvals.json".format(timestamp)
+stamped = "{0}-abq-cannabis-retail-approvals.geojson".format(timestamp)
 
-file_saved = os.path.join(dir_current, dir_data, file_output)
+stamped_file = os.path.join(dir_current, dir_data, stamped)
 
-target_url = "https://services.arcgis.com/CWv1abTnC3urn4bV/ArcGIS/rest/services/Application_for_Cannabis_Retail_Location_Approval_ViewForPublicMap/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=*&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+latest = "latest-abq-cannabis-retail-approvals.geojson".format(timestamp)
+
+latest_file = os.path.join(dir_current, dir_data, latest)
+
+target_url = "https://services.arcgis.com/CWv1abTnC3urn4bV/ArcGIS/rest/services/Application_for_Cannabis_Retail_Location_Approval_ViewForPublicMap/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=*&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pgeojson&token="
 
 response = urllib.request.urlopen(target_url)
 
 raw = json.load(response)
 
-with open(file_saved, "w", encoding="utf-8") as f:
-    json.dump(raw["features"], f, ensure_ascii=False, indent=4)
+with open(stamped_file, "w", encoding="utf-8") as f:
+    json.dump(raw, f, ensure_ascii=False, indent=4)
 
-logger.debug("File saved to {0}".format(file_saved))
+logger.debug("File saved to {0}".format(stamped_file))
+
+with open(latest_file, "w", encoding="utf-8") as f:
+    json.dump(raw, f, ensure_ascii=False, indent=4)
+
+logger.debug("File saved to {0}".format(latest_file))

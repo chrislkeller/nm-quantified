@@ -27,31 +27,28 @@ class CompileDailyCsvFiles(object):
     https://cabq.maps.arcgis.com/apps/dashboards/4be0b05fa6444888b7174e0d92c9747b
     """
 
-    timestamp = datetime.datetime.now().strftime("%Y-%m-%d-%H%M%S")
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d")
     dir_current = os.path.dirname(os.path.realpath(__file__))
     dir_data = "daily-data"
-    path = os.path.join(dir_current, dir_data)
+    latest = "latest-abq-cannabis-retail-approvals.geojson"
+    latest_file = os.path.join(dir_current, dir_data, latest)
 
     def handle(self):
-        files = [f for f in listdir(self.path) if isfile(join(self.path, f))]
-        for file in files:
-
-            daily_output = []
-            target = os.path.join(self.path, file)
-            with open(target, encoding="utf-8") as f:
-                raw_json = json.load(f)
-                for item in raw_json:
-                    _this = item["attributes"]
-                    _this["date_data_acquired"] = file[:17]
-                    _this["lat"] = item["geometry"]["x"]
-                    _this["lon"] = item["geometry"]["y"]
-                    _unix = _this["CreationDate"] / 1000
-                    _this["creation_date_formal"] = datetime.datetime.utcfromtimestamp(
-                        _unix
-                    ).strftime("%Y-%m-%d")
-                    daily_output.append(_this)
-            latest_csv = "latest-abq-cannabis-retail-approvals.csv"
-            self.write_csv(latest_csv, daily_output)
+        daily_output = []
+        with open(self.latest_file, encoding="utf-8") as f:
+            raw_json = json.load(f)
+            for item in raw_json["features"]:
+                _this = item["properties"]
+                _this["date_data_acquired"] = self.timestamp
+                _this["latitude"] = item["geometry"]["coordinates"][1]
+                _this["longitude"] = item["geometry"]["coordinates"][0]
+                _unix = _this["CreationDate"] / 1000
+                _this["creation_date_formal"] = datetime.datetime.utcfromtimestamp(
+                    _unix
+                ).strftime("%Y-%m-%d")
+                daily_output.append(_this)
+        latest_csv = "latest-abq-cannabis-retail-approvals.csv"
+        self.write_csv(latest_csv, daily_output)
 
     def write_csv(self, file, data):
         file_saved = os.path.join(self.dir_current, self.dir_data, file)

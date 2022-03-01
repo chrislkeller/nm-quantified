@@ -1,0 +1,797 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.579961668039,
+                    35.1095168464176
+                ]
+            },
+            "properties": {
+                "objectid": 27,
+                "globalid": "bd87663e-9eed-412e-8681-97cbf165eb52",
+                "CreationDate": 1644033204000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "Enchanted Botanicals LLC",
+                "state_cannabis_licence_number": "CCD-2022-0007-002",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "5737 Menaul Blvd NE Albuquerque, NM 87110"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.594740974994,
+                    35.1877150103392
+                ]
+            },
+            "properties": {
+                "objectid": 28,
+                "globalid": "f87fba6f-df9a-458a-8d72-c82c0d1caba8",
+                "CreationDate": 1644071817000,
+                "state_licensed_medical_facility": "Yes",
+                "IDO_District": null,
+                "name_of_business": "Carver Family Farm",
+                "state_cannabis_licence_number": "CCD-MICB-2022-0001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "8917 Adams St NE, Albuquerque, NM 87113"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.53205397843,
+                    35.0988460076502
+                ]
+            },
+            "properties": {
+                "objectid": 29,
+                "globalid": "2407b15f-dbd0-4a75-8fbe-af60dc1ea290",
+                "CreationDate": 1644073743000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_L",
+                "name_of_business": "The Bad Company, LLC",
+                "state_cannabis_licence_number": "CCD-2022-0040-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "1616 Eubank Blvd NE Albuquerque NM 87112"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.586011765111,
+                    35.115310059225
+                ]
+            },
+            "properties": {
+                "objectid": 30,
+                "globalid": "8a0ba9e8-9130-4795-8787-d755c86c376a",
+                "CreationDate": 1644085864000,
+                "state_licensed_medical_facility": "Yes",
+                "IDO_District": null,
+                "name_of_business": "Urban Wellness",
+                "state_cannabis_licence_number": "CCD-VICE-2021-0012-RTLR-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "2910 San Mateo Blvd NE #5, Albuquerque, NM 87110"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.674231194181,
+                    35.1843888562459
+                ]
+            },
+            "properties": {
+                "objectid": 31,
+                "globalid": "3a95fe95-cca2-436f-8be2-c44cb00a5797",
+                "CreationDate": 1644086084000,
+                "state_licensed_medical_facility": "Yes",
+                "IDO_District": null,
+                "name_of_business": "Urban Wellness",
+                "state_cannabis_licence_number": "CCD-VICE-2021-0012-RTLR-002",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "4601 Paradise Blvd NW Suite H, Albuquerque, NM 87114"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.558707621192,
+                    35.1768897394258
+                ]
+            },
+            "properties": {
+                "objectid": 32,
+                "globalid": "a0999a1d-206f-4b45-85cb-428c88c3697c",
+                "CreationDate": 1644086199000,
+                "state_licensed_medical_facility": "Yes",
+                "IDO_District": null,
+                "name_of_business": "Urban Wellness",
+                "state_cannabis_licence_number": "CCD-VICE-2021-0012-RTLR-003",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "7610 Carmel Ave NE Ste. B, Albuquerque, NM 87122"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.741940047835,
+                    35.0752908063142
+                ]
+            },
+            "properties": {
+                "objectid": 33,
+                "globalid": "7c988d75-fd4e-4d19-8769-e240492a5178",
+                "CreationDate": 1644086335000,
+                "state_licensed_medical_facility": "Yes",
+                "IDO_District": null,
+                "name_of_business": "Urban Wellness",
+                "state_cannabis_licence_number": "CCD-VICE-2021-0012-RTLR-004",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "120 98th St NW Suite B-5, Albuquerque, NM 87121"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.585325834614,
+                    35.1476943007164
+                ]
+            },
+            "properties": {
+                "objectid": 34,
+                "globalid": "732ae763-0723-428e-8416-588be428cf6a",
+                "CreationDate": 1644086433000,
+                "state_licensed_medical_facility": "Yes",
+                "IDO_District": null,
+                "name_of_business": "Urban Wellness",
+                "state_cannabis_licence_number": "CCD-VICE-2021-0012-RTLR-005",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "6220 San Mateo Blvd NE Suite D, Albuquerque, NM 87109"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.606246981121,
+                    35.0802930002475
+                ]
+            },
+            "properties": {
+                "objectid": 36,
+                "globalid": "72c50987-2c84-4000-8a1d-0ea80c0d7255",
+                "CreationDate": 1644169784000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "ENCHANTED BOTANICALS LLC",
+                "state_cannabis_licence_number": "CCD-2022-0007-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "3417 Central Ave NE Albuquerque, NM 87106"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.606741235777,
+                    35.0794207662191
+                ]
+            },
+            "properties": {
+                "objectid": 37,
+                "globalid": "b61a9b7f-19c9-4062-882a-89ef6634384f",
+                "CreationDate": 1644183867000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "Canvas Organics Enterprises LLC DBD Canvas Organics",
+                "state_cannabis_licence_number": "CCD-2022-0032-001",
+                "ReviewStatus": "Denied",
+                "formatted_address_cannabis_loc": "114 Tulane Dr SE, Albuquerque, NM 87106"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.587333349401,
+                    35.0945256361153
+                ]
+            },
+            "properties": {
+                "objectid": 39,
+                "globalid": "8b6d2319-0bcd-4efc-8bfa-6718804c95c4",
+                "CreationDate": 1644258103000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_L",
+                "name_of_business": "Cloud 9 Zendustries ",
+                "state_cannabis_licence_number": "CCD-2022-0014-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "5200 Constitution Ave NE Albuquerque NM 87100"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.669119414186,
+                    35.0987086536742
+                ]
+            },
+            "properties": {
+                "objectid": 40,
+                "globalid": "2e36b04e-d1d7-460d-84a5-24f659032818",
+                "CreationDate": 1644258765000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "PurLife",
+                "state_cannabis_licence_number": "CCD-VICE-2021-0002-RTLR-013",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "2011 Mountain Rd NWAlbuquerque, NM 87104"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.569986310099,
+                    35.1314729371874
+                ]
+            },
+            "properties": {
+                "objectid": 41,
+                "globalid": "d96f3e7f-f91f-4f8a-8e9d-6c3db6e9b6e2",
+                "CreationDate": 1644259431000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "Rio Grande Farmaceuticals LLC",
+                "state_cannabis_licence_number": "CCD-VICE-2022-0003",
+                "ReviewStatus": "Under Review",
+                "formatted_address_cannabis_loc": "6919 Montgomery Blvd. NE Suite Suite B Albuquerque, NM 87109"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.555707066715,
+                    35.1750517863407
+                ]
+            },
+            "properties": {
+                "objectid": 42,
+                "globalid": "150b04b1-f388-4c96-8247-1a49d6be6bce",
+                "CreationDate": 1644266464000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "New Mexico Top Organics Ultra Health Inc",
+                "state_cannabis_licence_number": "CCD-VICE-2021-0008-RTLR-025",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "8104 Wyoming Blvd NE Suite E Albuquerque NM 87113"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.656764963016,
+                    35.0919500063602
+                ]
+            },
+            "properties": {
+                "objectid": 43,
+                "globalid": "3b4d9903-8e46-46a4-8045-648abf476982",
+                "CreationDate": 1644266474000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_L",
+                "name_of_business": "Canvas Organics Enterprises LLC, DBA Canvas Organics",
+                "state_cannabis_licence_number": "CCD-2022-0032-004",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "901 Lomas Blvd NWAlbuquerque, NM 87106"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.515777998844,
+                    35.1002126108908
+                ]
+            },
+            "properties": {
+                "objectid": 44,
+                "globalid": "30544d95-512f-4b4d-8708-3ac59c49c3de",
+                "CreationDate": 1644279819000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "Chadcor Holdings NM, LLC",
+                "state_cannabis_licence_number": "CCD-2022-0028-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "1713 Juan Tabo Blvd NE. Albuquerque, NM 87112"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.580630040998,
+                    35.1095059863802
+                ]
+            },
+            "properties": {
+                "objectid": 45,
+                "globalid": "51fb4c4d-4c06-4727-813f-56ac69d65b71",
+                "CreationDate": 1644282322000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "Chadcor Holdings NM, LLC",
+                "state_cannabis_licence_number": "CCD-2022-0028-002",
+                "ReviewStatus": "Denied",
+                "formatted_address_cannabis_loc": "5715 Menaul Blvd NE, Albuquerque, NM 87110"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.57736621172,
+                    35.116968821071
+                ]
+            },
+            "properties": {
+                "objectid": 47,
+                "globalid": "c87065c4-9b97-4a55-8bce-aff032c73405",
+                "CreationDate": 1644362869000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_L",
+                "name_of_business": "Canvas Organics Enterprises LLC",
+                "state_cannabis_licence_number": "CCD-2022-0032-002",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "3000 San Pedro Dr NE, Suite AB, Albuquerque NM 87110"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.586632992414,
+                    35.1101140096365
+                ]
+            },
+            "properties": {
+                "objectid": 48,
+                "globalid": "1776af9d-150f-4743-8f67-521ae53999fe",
+                "CreationDate": 1644425308000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_L",
+                "name_of_business": "Prohibition 37 (Budding Hope)",
+                "state_cannabis_licence_number": "CCD-2021-0014-001",
+                "ReviewStatus": null,
+                "formatted_address_cannabis_loc": "2621 San Mateo Blvd NE, Suite BAlbuquerque, NM 87110"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.705559038886,
+                    35.1025150181272
+                ]
+            },
+            "properties": {
+                "objectid": 49,
+                "globalid": "c7fd0ce4-6369-4efe-8414-dce1e472ac0a",
+                "CreationDate": 1644467489000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_L",
+                "name_of_business": "Prohibition 37 ",
+                "state_cannabis_licence_number": "CCD-2021-0014-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "1514 Coors Blvd NW, Suite BAlbuquerque, NM 87121"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.58686626078,
+                    35.1219930065716
+                ]
+            },
+            "properties": {
+                "objectid": 50,
+                "globalid": "6acbd496-1be4-4072-87ff-ac0d68114008",
+                "CreationDate": 1644605834000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_L",
+                "name_of_business": "High Ways NM LLC",
+                "state_cannabis_licence_number": "CCD-2022-0041-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "3401 San Mateo Blvd NE Suite B Albuquerque, NM 87110"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.559267000556,
+                    35.1086820033885
+                ]
+            },
+            "properties": {
+                "objectid": 51,
+                "globalid": "6cc68127-db61-4b9c-843b-40075191fa7d",
+                "CreationDate": 1644617306000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "Seven Point Farms",
+                "state_cannabis_licence_number": "CCD-2021-0009",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "7608 Menaul Blvd NE, Albuquerque, NM 87110"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.603739031872,
+                    35.1300719916495
+                ]
+            },
+            "properties": {
+                "objectid": 52,
+                "globalid": "e6d94f54-4e74-49b9-85c5-d55a1c7ad0af",
+                "CreationDate": 1644619348000,
+                "state_licensed_medical_facility": "Yes",
+                "IDO_District": null,
+                "name_of_business": "Natural Medicine of New Mexico dba Cannaceutics",
+                "state_cannabis_licence_number": "333333003",
+                "ReviewStatus": null,
+                "formatted_address_cannabis_loc": "4316 Carlisle Blvd NE Suite D Albuquerque 87107"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.603795022985,
+                    35.1011719857814
+                ]
+            },
+            "properties": {
+                "objectid": 53,
+                "globalid": "7d633ba3-58cc-40ce-8748-bf9d26656653",
+                "CreationDate": 1644855236000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_L",
+                "name_of_business": "DULCE CANNABIS LLC",
+                "state_cannabis_licence_number": "CCD-2022-0009-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "2000 CARLISLE BLVD NE STE B ALBUQUERQUE, NM 87110"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.643572015056,
+                    35.1291050133897
+                ]
+            },
+            "properties": {
+                "objectid": 54,
+                "globalid": "15f1736d-5c93-4d20-8faf-268d50ef2807",
+                "CreationDate": 1644881396000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "NR_C",
+                "name_of_business": "Cranium Extracts LLC",
+                "state_cannabis_licence_number": "PAR-0000006206 CCD-2022-0065-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "4501 4th St. NW Albuquerque NM 87107 Suite F"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.641423984729,
+                    35.1352839847725
+                ]
+            },
+            "properties": {
+                "objectid": 56,
+                "globalid": "7271b90f-5f48-415e-820b-e79e1fada745",
+                "CreationDate": 1645114638000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "Best Daze",
+                "state_cannabis_licence_number": "CCD-VICE-2021-0025-RTLR-006",
+                "ReviewStatus": "Under Review",
+                "formatted_address_cannabis_loc": "5212 4th St NW Albuquerque 87107"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.584410027873,
+                    35.0877469848319
+                ]
+            },
+            "properties": {
+                "objectid": 57,
+                "globalid": "03575381-5c54-44f9-84aa-2277d813b5c1",
+                "CreationDate": 1645137572000,
+                "state_licensed_medical_facility": "Yes",
+                "IDO_District": null,
+                "name_of_business": "505 Farms ABQ LLC",
+                "state_cannabis_licence_number": "0000006381",
+                "ReviewStatus": "Under Review",
+                "formatted_address_cannabis_loc": "5401 Lomas Blvd NE Suite A"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.593104156942,
+                    35.1403512294165
+                ]
+            },
+            "properties": {
+                "objectid": 58,
+                "globalid": "fdfce693-85ee-4d7b-8005-2e59b0167a98",
+                "CreationDate": 1645138964000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "NR_C",
+                "name_of_business": "HAPPY DAZE LLC",
+                "state_cannabis_licence_number": "CCD-2022-0072-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "5000-B JEFFERSON ST NE ALBUQUERQUE NM 87109"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.551364039328,
+                    35.1138550206618
+                ]
+            },
+            "properties": {
+                "objectid": 60,
+                "globalid": "bb45a4b3-9679-4de1-8dd5-e041d5ffa09c",
+                "CreationDate": 1645460261000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_T_Conditional_use_required_",
+                "name_of_business": "NM",
+                "state_cannabis_licence_number": "PAR-0000006183",
+                "ReviewStatus": "Under Review",
+                "formatted_address_cannabis_loc": "2527 Wyoming Blvd NE Albuquerque, NM 87113"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.744878965777,
+                    35.0768640055679
+                ]
+            },
+            "properties": {
+                "objectid": 61,
+                "globalid": "7409bbaa-e5ab-498c-8151-a7a1dfb9caf6",
+                "CreationDate": 1645465549000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "NR_C",
+                "name_of_business": "Pecos Valley Pharmaceuticals",
+                "state_cannabis_licence_number": "CCD-VICE-2021-0024-RTLR-012",
+                "ReviewStatus": "Under Review",
+                "formatted_address_cannabis_loc": "251 98TH ST. NW, SUITE A, ALBUQUERQUE, NM 87121"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.529863032759,
+                    35.0721209799275
+                ]
+            },
+            "properties": {
+                "objectid": 62,
+                "globalid": "d9af6d21-1247-4077-8af5-38b8ebe25baf",
+                "CreationDate": 1645476824000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_H",
+                "name_of_business": "Leaf & Flower LLC",
+                "state_cannabis_licence_number": "CCD-2022-0079-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "10601 Central Avenue NE Albuquerque, NM  87123"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.585966966388,
+                    35.1267810050057
+                ]
+            },
+            "properties": {
+                "objectid": 63,
+                "globalid": "3df7328f-3659-4d47-83c1-3810108d124a",
+                "CreationDate": 1645487478000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "FCI of New Mexico",
+                "state_cannabis_licence_number": "CCD-2022-0060-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "4000 San Mateo Blvd NE Albuquerque, NM 87110"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.533501030194,
+                    35.1045340090545
+                ]
+            },
+            "properties": {
+                "objectid": 64,
+                "globalid": "d1045c5b-83d6-48d2-8561-9ecf15081547",
+                "CreationDate": 1645489223000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_M",
+                "name_of_business": "FCI of New Mexico",
+                "state_cannabis_licence_number": "CCD-2022-0060-001",
+                "ReviewStatus": "Approved",
+                "formatted_address_cannabis_loc": "2009 Eubank Blvd NE Albuquerque, NM 87112"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.502183976817,
+                    35.0868660048986
+                ]
+            },
+            "properties": {
+                "objectid": 65,
+                "globalid": "8e37dfc0-bcde-4929-8521-929dbf6a8a6d",
+                "CreationDate": 1645736870000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_L",
+                "name_of_business": "NM",
+                "state_cannabis_licence_number": "par-0000008747",
+                "ReviewStatus": "Under Review",
+                "formatted_address_cannabis_loc": "13025 Lomas Blvd. NE Ste. B Albuquerque, NM 87112"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.631687846278,
+                    35.0999184564876
+                ]
+            },
+            "properties": {
+                "objectid": 67,
+                "globalid": "d80a1032-0f76-480b-8e81-236ce9ce95c1",
+                "CreationDate": 1646073679000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "NR_LM",
+                "name_of_business": "Sawmill Cannabis Company LLC",
+                "state_cannabis_licence_number": "CCD-2022-0090-001",
+                "ReviewStatus": null,
+                "formatted_address_cannabis_loc": "215 Phoenix Ave NW, Albuquerque, NM, 87107, USA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.516129032949,
+                    35.1158890151958
+                ]
+            },
+            "properties": {
+                "objectid": 68,
+                "globalid": "e510eec6-a302-477d-8208-a8a84164bfe0",
+                "CreationDate": 1646101008000,
+                "state_licensed_medical_facility": "No",
+                "IDO_District": "MX_L",
+                "name_of_business": "OCC ABQ LLC",
+                "state_cannabis_licence_number": "CCD-2022-0091-001",
+                "ReviewStatus": null,
+                "formatted_address_cannabis_loc": "2925 Juan Tabo Blvd NE, Albuquerque, NM, 87112, USA"
+            }
+        }
+    ]
+}
