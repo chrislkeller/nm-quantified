@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+requests = "*"
+beautifulsoup4 = "*"
+lxml = "*"
+pep8 = "*"
+pillow = "*"
+pytesseract = "*"
 
 [dev-packages]
 
