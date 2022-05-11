@@ -1,3 +1,5 @@
+nm-doh-tableau-dashboard/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
