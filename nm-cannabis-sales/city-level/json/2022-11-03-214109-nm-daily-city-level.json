@@ -1,0 +1,551 @@
+[
+    {
+        "City": "ALAMOGORDO",
+        "MedicalSales": 3915175.86,
+        "MedicalTickets": 31788,
+        "RecSales": 3152888.06,
+        "RecTickets": 32525,
+        "TotalSales": 7068063.92,
+        "TotalTickets": 64313
+    },
+    {
+        "City": "ALBUQUERQUE",
+        "MedicalSales": 46343057.16,
+        "MedicalTickets": 369634,
+        "RecSales": 53867399.42,
+        "RecTickets": 607044,
+        "TotalSales": 100210456.58,
+        "TotalTickets": 976678
+    },
+    {
+        "City": "ALTO",
+        "MedicalSales": 85547.37,
+        "MedicalTickets": 641,
+        "RecSales": 348232.53,
+        "RecTickets": 3160,
+        "TotalSales": 433779.9,
+        "TotalTickets": 3801
+    },
+    {
+        "City": "ANTHONY",
+        "MedicalSales": 319260.62,
+        "MedicalTickets": 4166,
+        "RecSales": 2527174.18,
+        "RecTickets": 30703,
+        "TotalSales": 2846434.8,
+        "TotalTickets": 34869
+    },
+    {
+        "City": "ARTESIA",
+        "MedicalSales": 64642.59,
+        "MedicalTickets": 1573,
+        "RecSales": 109865.59,
+        "RecTickets": 3107,
+        "TotalSales": 174508.18,
+        "TotalTickets": 4680
+    },
+    {
+        "City": "AZTEC",
+        "MedicalSales": 37279.95,
+        "MedicalTickets": 502,
+        "RecSales": 262445.79,
+        "RecTickets": 4238,
+        "TotalSales": 299725.74,
+        "TotalTickets": 4740
+    },
+    {
+        "City": "BELEN",
+        "MedicalSales": 479659.62,
+        "MedicalTickets": 5519,
+        "RecSales": 773016.41,
+        "RecTickets": 10935,
+        "TotalSales": 1252676.03,
+        "TotalTickets": 16454
+    },
+    {
+        "City": "BERNALILLO",
+        "MedicalSales": 1196844.66,
+        "MedicalTickets": 11110,
+        "RecSales": 2060145.46,
+        "RecTickets": 26308,
+        "TotalSales": 3256990.12,
+        "TotalTickets": 37418
+    },
+    {
+        "City": "BOSQUE FARMS",
+        "MedicalSales": 4748.81,
+        "MedicalTickets": 175,
+        "RecSales": 7397.5,
+        "RecTickets": 307,
+        "TotalSales": 12146.31,
+        "TotalTickets": 482
+    },
+    {
+        "City": "CARLSBAD",
+        "MedicalSales": 2516003.54,
+        "MedicalTickets": 20465,
+        "RecSales": 5381448.98,
+        "RecTickets": 43748,
+        "TotalSales": 7897452.52,
+        "TotalTickets": 64213
+    },
+    {
+        "City": "CEDAR CREST",
+        "MedicalSales": 282217.41,
+        "MedicalTickets": 2116,
+        "RecSales": 348274.06,
+        "RecTickets": 3764,
+        "TotalSales": 630491.47,
+        "TotalTickets": 5880
+    },
+    {
+        "City": "CHAMA",
+        "MedicalSales": 5574.12,
+        "MedicalTickets": 118,
+        "RecSales": 59861.89,
+        "RecTickets": 1265,
+        "TotalSales": 65436.01,
+        "TotalTickets": 1383
+    },
+    {
+        "City": "CHAPARRAL",
+        "MedicalSales": 205875.2,
+        "MedicalTickets": 2910,
+        "RecSales": 1170628.87,
+        "RecTickets": 20693,
+        "TotalSales": 1376504.07,
+        "TotalTickets": 23603
+    },
+    {
+        "City": "CLAYTON",
+        "MedicalSales": 94764.73,
+        "MedicalTickets": 1023,
+        "RecSales": 930624.47,
+        "RecTickets": 7207,
+        "TotalSales": 1025389.2,
+        "TotalTickets": 8230
+    },
+    {
+        "City": "CLOUDCROFT",
+        "MedicalSales": 64604.08,
+        "MedicalTickets": 819,
+        "RecSales": 413165.96,
+        "RecTickets": 4558,
+        "TotalSales": 477770.04,
+        "TotalTickets": 5377
+    },
+    {
+        "City": "CLOVIS",
+        "MedicalSales": 3016647.47,
+        "MedicalTickets": 29163,
+        "RecSales": 4977049.65,
+        "RecTickets": 36420,
+        "TotalSales": 7993697.12,
+        "TotalTickets": 65583
+    },
+    {
+        "City": "CORRALES",
+        "MedicalSales": 274946.95,
+        "MedicalTickets": 1669,
+        "RecSales": 310218,
+        "RecTickets": 2525,
+        "TotalSales": 585164.95,
+        "TotalTickets": 4194
+    },
+    {
+        "City": "CUBA",
+        "MedicalSales": 4740.59,
+        "MedicalTickets": 126,
+        "RecSales": 53124.2,
+        "RecTickets": 1669,
+        "TotalSales": 57864.79,
+        "TotalTickets": 1795
+    },
+    {
+        "City": "DEMING",
+        "MedicalSales": 778427.7,
+        "MedicalTickets": 8595,
+        "RecSales": 1192381.12,
+        "RecTickets": 17938,
+        "TotalSales": 1970808.82,
+        "TotalTickets": 26533
+    },
+    {
+        "City": "EAGLE NEST",
+        "MedicalSales": 34438.27,
+        "MedicalTickets": 345,
+        "RecSales": 202712.1,
+        "RecTickets": 2291,
+        "TotalSales": 237150.37,
+        "TotalTickets": 2636
+    },
+    {
+        "City": "EDGEWOOD",
+        "MedicalSales": 737554.55,
+        "MedicalTickets": 5886,
+        "RecSales": 1247120.58,
+        "RecTickets": 12028,
+        "TotalSales": 1984675.13,
+        "TotalTickets": 17914
+    },
+    {
+        "City": "ESPANOLA",
+        "MedicalSales": 1856175.13,
+        "MedicalTickets": 16083,
+        "RecSales": 2134410.48,
+        "RecTickets": 26193,
+        "TotalSales": 3990585.61,
+        "TotalTickets": 42276
+    },
+    {
+        "City": "ESTANCIA",
+        "MedicalSales": 31877.04,
+        "MedicalTickets": 501,
+        "RecSales": 98968.12,
+        "RecTickets": 1639,
+        "TotalSales": 130845.16,
+        "TotalTickets": 2140
+    },
+    {
+        "City": "FARMINGTON",
+        "MedicalSales": 1480412.16,
+        "MedicalTickets": 12022,
+        "RecSales": 3788275.39,
+        "RecTickets": 50688,
+        "TotalSales": 5268687.55,
+        "TotalTickets": 62710
+    },
+    {
+        "City": "FORT LAUDERDALE",
+        "MedicalSales": 245,
+        "MedicalTickets": 0,
+        "RecSales": 174,
+        "RecTickets": 0,
+        "TotalSales": 419,
+        "TotalTickets": 0
+    },
+    {
+        "City": "FORT SUMNER",
+        "MedicalSales": 47140.75,
+        "MedicalTickets": 808,
+        "RecSales": 111949.97,
+        "RecTickets": 1772,
+        "TotalSales": 159090.72,
+        "TotalTickets": 2580
+    },
+    {
+        "City": "GALLUP",
+        "MedicalSales": 949593.1,
+        "MedicalTickets": 8538,
+        "RecSales": 3511051.14,
+        "RecTickets": 45106,
+        "TotalSales": 4460644.24,
+        "TotalTickets": 53644
+    },
+    {
+        "City": "GRANTS",
+        "MedicalSales": 1087083.05,
+        "MedicalTickets": 9303,
+        "RecSales": 1244569.69,
+        "RecTickets": 13119,
+        "TotalSales": 2331652.74,
+        "TotalTickets": 22422
+    },
+    {
+        "City": "HOBBS",
+        "MedicalSales": 2610525.8,
+        "MedicalTickets": 17766,
+        "RecSales": 9149981.65,
+        "RecTickets": 52250,
+        "TotalSales": 11760507.45,
+        "TotalTickets": 70016
+    },
+    {
+        "City": "JAL",
+        "MedicalSales": 28.5,
+        "MedicalTickets": 1,
+        "RecSales": 34822.02,
+        "RecTickets": 482,
+        "TotalSales": 34850.52,
+        "TotalTickets": 483
+    },
+    {
+        "City": "KIRTLAND",
+        "MedicalSales": 4416.95,
+        "MedicalTickets": 143,
+        "RecSales": 44246.04,
+        "RecTickets": 1590,
+        "TotalSales": 48662.99,
+        "TotalTickets": 1733
+    },
+    {
+        "City": "LAS CRUCES",
+        "MedicalSales": 10215171.92,
+        "MedicalTickets": 87082,
+        "RecSales": 12519838.81,
+        "RecTickets": 124142,
+        "TotalSales": 22735010.74,
+        "TotalTickets": 211224
+    },
+    {
+        "City": "LAS VEGAS",
+        "MedicalSales": 1413240.47,
+        "MedicalTickets": 13966,
+        "RecSales": 1483736.28,
+        "RecTickets": 18784,
+        "TotalSales": 2896976.75,
+        "TotalTickets": 32750
+    },
+    {
+        "City": "LOGAN",
+        "MedicalSales": 11229.97,
+        "MedicalTickets": 151,
+        "RecSales": 47361.56,
+        "RecTickets": 610,
+        "TotalSales": 58591.53,
+        "TotalTickets": 761
+    },
+    {
+        "City": "LOS ALAMOS",
+        "MedicalSales": 125390.56,
+        "MedicalTickets": 1111,
+        "RecSales": 243123.29,
+        "RecTickets": 2944,
+        "TotalSales": 368513.85,
+        "TotalTickets": 4055
+    },
+    {
+        "City": "LOS LUNAS",
+        "MedicalSales": 2559754.55,
+        "MedicalTickets": 19586,
+        "RecSales": 2704098.33,
+        "RecTickets": 28516,
+        "TotalSales": 5263852.88,
+        "TotalTickets": 48102
+    },
+    {
+        "City": "LOS RANCHOS",
+        "MedicalSales": 16897.56,
+        "MedicalTickets": 280,
+        "RecSales": 73289.06,
+        "RecTickets": 1099,
+        "TotalSales": 90186.62,
+        "TotalTickets": 1379
+    },
+    {
+        "City": "LOVINGTON",
+        "MedicalSales": 27165.53,
+        "MedicalTickets": 583,
+        "RecSales": 57380.86,
+        "RecTickets": 1375,
+        "TotalSales": 84546.39,
+        "TotalTickets": 1958
+    },
+    {
+        "City": "MADRID",
+        "MedicalSales": 46103.66,
+        "MedicalTickets": 629,
+        "RecSales": 278735,
+        "RecTickets": 3119,
+        "TotalSales": 324838.66,
+        "TotalTickets": 3748
+    },
+    {
+        "City": "MESILLA",
+        "MedicalSales": 412.85,
+        "MedicalTickets": 15,
+        "RecSales": 1632.41,
+        "RecTickets": 59,
+        "TotalSales": 2045.26,
+        "TotalTickets": 74
+    },
+    {
+        "City": "MORA",
+        "MedicalSales": 23467.09,
+        "MedicalTickets": 648,
+        "RecSales": 62272.51,
+        "RecTickets": 2051,
+        "TotalSales": 85739.6,
+        "TotalTickets": 2699
+    },
+    {
+        "City": "MORIARTY",
+        "MedicalSales": 75019.44,
+        "MedicalTickets": 1479,
+        "RecSales": 212527.2,
+        "RecTickets": 4742,
+        "TotalSales": 287546.64,
+        "TotalTickets": 6221
+    },
+    {
+        "City": "PERALTA",
+        "MedicalSales": 45244.35,
+        "MedicalTickets": 1358,
+        "RecSales": 89750.96,
+        "RecTickets": 2732,
+        "TotalSales": 134995.31,
+        "TotalTickets": 4090
+    },
+    {
+        "City": "PLACITAS",
+        "MedicalSales": 247113.93,
+        "MedicalTickets": 1386,
+        "RecSales": 148865.57,
+        "RecTickets": 1321,
+        "TotalSales": 395979.5,
+        "TotalTickets": 2707
+    },
+    {
+        "City": "PORTALES",
+        "MedicalSales": 1392485.33,
+        "MedicalTickets": 14513,
+        "RecSales": 989095.3,
+        "RecTickets": 10845,
+        "TotalSales": 2381580.63,
+        "TotalTickets": 25358
+    },
+    {
+        "City": "QUESTA",
+        "MedicalSales": 11204.23,
+        "MedicalTickets": 145,
+        "RecSales": 32966.63,
+        "RecTickets": 300,
+        "TotalSales": 44170.86,
+        "TotalTickets": 445
+    },
+    {
+        "City": "RATON",
+        "MedicalSales": 57652.46,
+        "MedicalTickets": 478,
+        "RecSales": 503673,
+        "RecTickets": 4071,
+        "TotalSales": 561325.46,
+        "TotalTickets": 4549
+    },
+    {
+        "City": "RIO RANCHO",
+        "MedicalSales": 5980252.57,
+        "MedicalTickets": 39180,
+        "RecSales": 5210103.73,
+        "RecTickets": 49532,
+        "TotalSales": 11190356.3,
+        "TotalTickets": 88712
+    },
+    {
+        "City": "ROSWELL",
+        "MedicalSales": 3787350.35,
+        "MedicalTickets": 30582,
+        "RecSales": 2327990.18,
+        "RecTickets": 30225,
+        "TotalSales": 6115340.52,
+        "TotalTickets": 60807
+    },
+    {
+        "City": "RUIDOSO",
+        "MedicalSales": 2322341.17,
+        "MedicalTickets": 18095,
+        "RecSales": 4509271.24,
+        "RecTickets": 38015,
+        "TotalSales": 6831612.42,
+        "TotalTickets": 56110
+    },
+    {
+        "City": "SANTA FE",
+        "MedicalSales": 10955921.77,
+        "MedicalTickets": 82535,
+        "RecSales": 12750752.61,
+        "RecTickets": 128561,
+        "TotalSales": 23706674.38,
+        "TotalTickets": 211096
+    },
+    {
+        "City": "SILVER CITY",
+        "MedicalSales": 1492615.4,
+        "MedicalTickets": 13294,
+        "RecSales": 1221924.8,
+        "RecTickets": 14906,
+        "TotalSales": 2714540.2,
+        "TotalTickets": 28200
+    },
+    {
+        "City": "SOCORRO",
+        "MedicalSales": 724442.86,
+        "MedicalTickets": 5376,
+        "RecSales": 798481.49,
+        "RecTickets": 8263,
+        "TotalSales": 1522924.35,
+        "TotalTickets": 13639
+    },
+    {
+        "City": "SUNLAND PARK",
+        "MedicalSales": 1369518.35,
+        "MedicalTickets": 9973,
+        "RecSales": 9187455.53,
+        "RecTickets": 88169,
+        "TotalSales": 10556973.88,
+        "TotalTickets": 98142
+    },
+    {
+        "City": "TAOS",
+        "MedicalSales": 1178901.38,
+        "MedicalTickets": 8523,
+        "RecSales": 2606014.6,
+        "RecTickets": 25432,
+        "TotalSales": 3784915.98,
+        "TotalTickets": 33955
+    },
+    {
+        "City": "TATUM",
+        "MedicalSales": 64611.12,
+        "MedicalTickets": 628,
+        "RecSales": 242455.13,
+        "RecTickets": 2288,
+        "TotalSales": 307066.25,
+        "TotalTickets": 2916
+    },
+    {
+        "City": "TEXICO",
+        "MedicalSales": 30155.1,
+        "MedicalTickets": 313,
+        "RecSales": 399128.68,
+        "RecTickets": 2793,
+        "TotalSales": 429283.78,
+        "TotalTickets": 3106
+    },
+    {
+        "City": "TRUTH OR CONSEQUENCES",
+        "MedicalSales": 1416243.06,
+        "MedicalTickets": 13873,
+        "RecSales": 1069371.24,
+        "RecTickets": 12235,
+        "TotalSales": 2485614.3,
+        "TotalTickets": 26108
+    },
+    {
+        "City": "TUCUMCARI",
+        "MedicalSales": 404810.68,
+        "MedicalTickets": 4650,
+        "RecSales": 1810809.11,
+        "RecTickets": 14092,
+        "TotalSales": 2215619.79,
+        "TotalTickets": 18742
+    },
+    {
+        "City": "TULAROSA",
+        "MedicalSales": 237786.01,
+        "MedicalTickets": 2462,
+        "RecSales": 227425.92,
+        "RecTickets": 2793,
+        "TotalSales": 465211.93,
+        "TotalTickets": 5255
+    },
+    {
+        "City": "WHITE ROCK",
+        "MedicalSales": 13390.89,
+        "MedicalTickets": 289,
+        "RecSales": 30577.03,
+        "RecTickets": 863,
+        "TotalSales": 43967.92,
+        "TotalTickets": 1152
+    }
+]
