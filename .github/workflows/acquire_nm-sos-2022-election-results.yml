@@ -2,7 +2,7 @@ name: Acquire New Mexico secretary of state 2022-11-08 election results every 15
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/15  * * * *'
+    - cron:  '*/15 * * * *'
 
 jobs:
   acquire_csv:
