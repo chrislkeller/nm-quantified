@@ -1,8 +1,8 @@
-name: Acquire New Mexico secretary of state 2022-11-08 election results every 15 minutes
+name: Acquire data from New Mexico secretary of state for the 2022-11-08 election results every 15 minutes
 on:
-  # workflow_dispatch:
-  # schedule:
-  #   - cron:  '*/15 * * * *'
+  schedule:
+    - cron:  '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   acquire_csv:
@@ -21,12 +21,14 @@ jobs:
       - name: Run
         run: |
           pipenv run python nm-2022-11-08-election-results/1-acquire-nm-sos-results.py
+          pipenv run python nm-2022-11-08-election-results/1-acquire-nm-sos-county-turnout.py
+          pipenv run python nm-2022-11-08-election-results/2-compile-nm-sos-county-turnout.py
 
       # If any new data was fetched, create a new commit to the repo.
       - name: Commit data to repo.
         uses: ./.github/actions/commit
         if: always()
         with:
-            message: Acquired latest NM SOS election results from 2022-11-08
+            message: Acquired latest NM SOS data from 2022-11-08
             email_username: ${{ secrets.EMAIL_USERNAME }}
             username: ${{ secrets.USERNAME }}
