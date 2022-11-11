@@ -1,8 +1,8 @@
 name: Acquire data from New Mexico secretary of state for the 2022-11-08 election results every 15 minutes
 on:
-  schedule:
-    - cron:  '*/15 * * * *'
-  workflow_dispatch:
+  #schedule:
+    #- cron:  '*/15 * * * *'
+  #workflow_dispatch:
 
 jobs:
   acquire_csv:
