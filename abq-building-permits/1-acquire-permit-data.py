@@ -286,7 +286,7 @@ class BuildingPermitRequest(object):
         elif "Foundation" in inpt:
             output = inpt.replace("Foundation", "a foundation")
         elif "Change of Use" in inpt:
-            output = inpt.replace("Change of Use", "a change of use project")
+            output = inpt.replace("Change of Use", "a change-of-use project")
         elif "Sign - Commercial Sign" in inpt:
             output = inpt.replace("Sign - Commercial Sign", "a commercial sign")
         elif "New Building" in inpt:

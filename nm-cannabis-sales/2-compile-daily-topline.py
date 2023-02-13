@@ -39,14 +39,15 @@ class CompileDailyCsvFiles(object):
         files = [f for f in listdir(self.path) if isfile(join(self.path, f))]
         for file in files:
             daily_output = []
-            target = os.path.join(self.path, file)
-            with open(target, encoding="utf-8") as f:
-                raw_json = json.load(f)
-                for item in raw_json:
-                    item["acquired_datestamp"] = file[:17]
-                    daily_output.append(item)
-            daily_csv = "{0}-nm-daily-topline.csv".format(file[:17])
-            self.write_csv(daily_csv, daily_output)
+            if not file.startswith("."):
+                target = os.path.join(self.path, file)
+                with open(target, encoding="utf-8") as f:
+                    raw_json = json.load(f)
+                    for item in raw_json:
+                        item["acquired_datestamp"] = file[:17]
+                        daily_output.append(item)
+                daily_csv = "{0}-nm-daily-topline.csv".format(file[:17])
+                self.write_csv(daily_csv, daily_output)
 
     def write_csv(self, file, data):
         file_saved = os.path.join(self.dir_current, self.dir_csv, file)
