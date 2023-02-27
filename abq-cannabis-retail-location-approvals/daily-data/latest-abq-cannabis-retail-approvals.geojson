@@ -4705,7 +4705,7 @@
                 "IDO_District": "NR_LM",
                 "name_of_business": "Green Central Station",
                 "state_cannabis_licence_number": "2022-0603-001",
-                "ReviewStatus": "Approved",
+                "ReviewStatus": null,
                 "formatted_address_cannabis_loc": "2117 Menaul Blvd NE, Albuquerque, NM, 87107, USA"
             }
         }
