@@ -26,7 +26,6 @@ abq csv of building permits which is updated nightly
 
 
 class BuildingPermitRequest(object):
-
     request_headers = {
         "From": "ckeller@bizjournals.com",
         "User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) \
